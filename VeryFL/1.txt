@@ -1,0 +1,720 @@
+Paper ID: None, Count: 142, Title: “Blind multisignature scheme based on the discrete logarithm problem,”
+Paper ID: 4e9ec92a90c5d571d2f1d496f8df01f0a8f38596, Count: 7, Title: Bitcoin: A Peer-to-Peer Electronic Cash System
+Paper ID: ef822daf940422931d1e8acf819e1634c0c30901, Count: 7, Title: CrowdBC: A Blockchain-Based Decentralized Framework for Crowdsourcing
+Paper ID: dd4c113e7fca2e2fa3fdab2cb42932f23313d124, Count: 5, Title: Delegating Authentication to Edge: A Decentralized Authentication Architecture for Vehicular Networks
+Paper ID: 003a22bb2573d3b7215f5d9116a25a75e3a38009, Count: 4, Title: Lightweight and Privacy-Preserving Delegatable Proofs of Storage with Data Dynamics in Cloud Storage
+Paper ID: 2e4a4e9c08693edf82b44cc102c01417e7e39e32, Count: 4, Title: The Performance Evaluation of Blockchain-Based Security and Privacy Systems for the Internet of Things: A Tutorial
+Paper ID: 7fe4bbce603abe533f688b888a51d597db600609, Count: 4, Title: Blockchain for Internet of Things: A Survey
+Paper ID: 5399d3f0f9d59e76012d5322128804e442edf3c1, Count: 4, Title: A Blockchain-Based Copyright Protection Scheme With Proactive Defense
+Paper ID: 335856adfc827f08ce454601ee211a6aec7f4756, Count: 4, Title: A Generalized Blockchain-Based Government Data Sharing Protocol
+Paper ID: f47da57c061fb96bd631f4624265bdb043f11c6a, Count: 4, Title: A Crosschain-Based Fair Exchange of Products For Poverty Alleviation
+Paper ID: 4242d11e59219b81e86a4744666ceae73e01a045, Count: 4, Title: Concurrent and efficient IoT data trading based on probabilistic micropayments
+Paper ID: 18f3080b8392e777c02e894e19fd12b89bba1438, Count: 4, Title: Decentralized Anonymous Authentication With Fair Billing for Space-Ground Integrated Networks
+Paper ID: c2ff2e1f933b6f476d33c24fbacb179942b94661, Count: 3, Title: Design Scheme of Copyright Management System Based on Digital Watermarking and Blockchain
+Paper ID: c095d2978ea1dcdaa355d13df11e69b987c30834, Count: 3, Title: Copyright in the Blockchain Era: Promises and Challenges
+Paper ID: 8fc1267e55abc3b2b521ca40d7bb3215d02ee352, Count: 3, Title: Design of Network Media’s Digital Rights Management Scheme Based on Blockchain Technology
+Paper ID: 3c0c82f42172bc1da4acc36b656d12351bf53dae, Count: 3, Title: Short Signatures from the Weil Pairing
+Paper ID: c998aeb12b78122ec4143b608b517aef0aa2c821, Count: 3, Title: Blockchains and Smart Contracts for the Internet of Things
+Paper ID: 8132164f0fad260a12733b9b09cacc5fff970530, Count: 3, Title: Practical Byzantine fault tolerance
+Paper ID: 8df619b638a68095b5c82217170e17f0bda6c37b, Count: 2, Title: Privacy-Preserving Group Authentication for RFID Tags Using Bit-Collision Patterns
+Paper ID: d96e9efd7ad054fbf58466d2ecaa143c506e3dde, Count: 2, Title: DeQoS Attack: Degrading Quality of Service in VANETs and Its Mitigation
+Paper ID: a4da14a4329d7bf28e2ecbf9a3e42bf1faba523e, Count: 2, Title: Simple Schnorr multi-signatures with applications to Bitcoin
+Paper ID: 6a03ab12bdd5cc21579dda850d1b4fd0403085c1, Count: 2, Title: Compact Multi-Signatures for Smaller Blockchains
+Paper ID: 551fb86810f70c5fcb5372a829a36055b3db0dc3, Count: 2, Title: The Power of Proofs-of-Possession: Securing Multiparty Signatures against Rogue-Key Attacks
+Paper ID: 3ce6544a379e240be41a9ddb8c52597ac5e48e8b, Count: 2, Title: A Generalized Birthday Problem
+Paper ID: ddc25416604971f49e43f49b2aa09115ea15467e, Count: 2, Title: A public-key cryptosystem suitable for digital multisignatures
+Paper ID: fe065bca5fc2aad1ce8f89a45f3704c1697e5d40, Count: 2, Title: Enabling Public Auditability and Data Dynamics for Storage Security in Cloud Computing
+Paper ID: 422876e542daadefe3371091a65c5671185796e2, Count: 2, Title: Attribute-based encryption for fine-grained access control of encrypted data
+Paper ID: a5eaa0b77d774745409499be2a2f16c506156161, Count: 2, Title: Secure spread spectrum watermarking for multimedia
+Paper ID: f944881dc67b6dae9577867d59481b7e37d596b4, Count: 2, Title: A new blockchain-based trusted DRM scheme for built-in content protection
+Paper ID: a7ec2e290c7d6a91229bf978d79a45134752fd7a, Count: 2, Title: Introducing Ethereum and Solidity
+Paper ID: 3c50bb6cc3f5417c3325a36ee190e24f0dc87257, Count: 2, Title: ETHEREUM: A SECURE DECENTRALISED GENERALISED TRANSACTION LEDGER
+Paper ID: 5a0983674565c27b9cfc593427a83d9d5781e6ac, Count: 2, Title: PROTECT: Efficient Password-Based Threshold Single-Sign-On Authentication for Mobile Users against Perpetual Leakage
+Paper ID: a30cf084cc49d0054977ad8d678ed0fcac517054, Count: 2, Title: Privacy-Preserving Cloud-Based Road Condition Monitoring With Source Authentication in VANETs
+Paper ID: 88abb2cda4f2a57499a717966ac4fbe9a993027a, Count: 2, Title: How to share a secret
+Paper ID: ac6ccab565106c401146d876125f16d4ff1954aa, Count: 2, Title: Circuit Copyright Blockchain: Blockchain-Based Homomorphic Encryption for IP Circuit Protection
+Paper ID: eb00becfadf57c51784e4aeb6e050518c73e2dd7, Count: 2, Title: Effective watermarking technique using optimal discrete wavelet transform and sanitization technique
+Paper ID: 94979db84decd36416c7309aec7e12d9ed6d20c9, Count: 2, Title: BMCProtector: A Blockchain and Smart Contract Based Application for Music Copyright Protection
+Paper ID: a9efb1e481ec9ca6a42cf746c6135559cd314149, Count: 2, Title: Keeping Authorities "Honest or Bust" with Decentralized Witness Cosigning
+Paper ID: 892c6a538d07c9c1239176790ac9653ac1b24742, Count: 2, Title: Secure Multiparty Computations on Bitcoin
+Paper ID: 157a1857ef8cf0a323d09b2e6bdffd6348d54e50, Count: 2, Title: Non-Interactive Zero-Knowledge Proof of Knowledge and Chosen Ciphertext Attack
+Paper ID: 0dbb8a54ca5066b82fa086bbf5db4c54b947719a, Count: 2, Title: A NEXT GENERATION SMART CONTRACT & DECENTRALIZED APPLICATION PLATFORM
+Paper ID: 20a40ba07a87a9c16efbedda8cbd70c3daadaa31, Count: 2, Title: Provably Secure and Practical Identification Schemes and Corresponding Signature Schemes
+Paper ID: 9978f6a9ff6ebbbf6cf134ea9324da6271f3e07d, Count: 2, Title: Security and Privacy in Decentralized Energy Trading Through Multi-Signatures, Blockchain and Anonymous Messaging Streams
+Paper ID: 94cf401c112e409b63077be177e7b3d80a0bbfd7, Count: 2, Title: A Secure Sharding Protocol For Open Blockchains
+Paper ID: 632dad60ab2cb1a981144560fb31916a0b5422e1, Count: 2, Title: Threshold-Optimal DSA/ECDSA Signatures and an Application to Bitcoin Wallet Security
+Paper ID: 4b9184937da308914b9e13c43bfd75845eaf910b, Count: 2, Title: Decentralizing Privacy: Using Blockchain to Protect Personal Data
+Paper ID: 65ecd5eaec484201c701c4a1508f8d2132c125f0, Count: 2, Title: The Elliptic Curve Digital Signature Algorithm (ECDSA)
+Paper ID: fa289193db07758ca7875a0065e23d4f46ebd1b1, Count: 1, Title: A Multisignature-Based Secure and OBU-Friendly Emergency Reporting Scheme in VANET
+Paper ID: 26be99865315926af048c648fb24101bc4a6f4a5, Count: 1, Title: Smart Applications in Edge Computing: Overview on Authentication and Data Security
+Paper ID: 3deae266377d1fcf41806997139952bf9475efcc, Count: 1, Title: BTMPP: Balancing Trust Management and Privacy Preservation for Emergency Message Dissemination in Vehicular Networks
+Paper ID: c7fdbc11f7d30729a3274efc1a2c7178a2a8b5e7, Count: 1, Title: LiS: Lightweight Signature Schemes for Continuous Message Authentication in Cyber-Physical Systems
+Paper ID: 52c521094664882f70bc620bb470b1fab80cd316, Count: 1, Title: Round Optimal Secure Multisignature Schemes from Lattice with Public Key Aggregation and Signature Compression
+Paper ID: 7cdd2bcb6376bcf086e7480e9a895c280e942b54, Count: 1, Title: TCEMD: A Trust Cascading-Based Emergency Message Dissemination Model in VANETs
+Paper ID: 614c1417b92a271aaba05d7c46b1a2cd69bc2187, Count: 1, Title: On the Design of Conditional Privacy Preserving Batch Verification-Based Authentication Scheme for Internet of Vehicles Deployment
+Paper ID: eff5f6e979e05a6b3afb75443d748e2d8b3433d4, Count: 1, Title: Reliable Emergency Message Dissemination Scheme for Urban Vehicular Networks
+Paper ID: 074f6fb6a6d041480881ae649f1050cc8ad39818, Count: 1, Title: Unified Biometric Privacy Preserving Three-Factor Authentication and Key Agreement for Cloud-Assisted Autonomous Vehicles
+Paper ID: f31bff0a219cb770cced47e0e3dd574606303b1e, Count: 1, Title: Secure Real-Time Traffic Data Aggregation With Batch Verification for Vehicular Cloud in VANETs
+Paper ID: 291afde59f2a8377156e315a4facb02530a1a214, Count: 1, Title: Toward Blockchain-Based Fair and Anonymous Ad Dissemination in Vehicular Networks
+Paper ID: d813ad8a47ccbccfc298a9d150691732f2fe6a08, Count: 1, Title: Position-based emergency message dissemination for Internet of vehicles
+Paper ID: 5ec0565869e9c024c3ac98da9f59f1a2f4d744bb, Count: 1, Title: Privacy Preserving Data Aggregation Scheme for Mobile Edge Computing Assisted IoT Applications
+Paper ID: 9d07354c817ce3543dc964d662843b63a95b4594, Count: 1, Title: Efficient Multilevel Privacy Preserving Authentication Scheme for Emergency Message Communication in VANE
+Paper ID: ed8f9b835c9e0df12b6be0a0b51d9c88c28a27a5, Count: 1, Title: Synchronized Aggregate Signatures from the RSA Assumption
+Paper ID: 52e216343045f693c4fafbe85322ca3b1666e577, Count: 1, Title: A Large-Scale Concurrent Data Anonymous Batch Verification Scheme for Mobile Healthcare Crowd Sensing
+Paper ID: 55ace753f15b922773492435e828ef17508f16a6, Count: 1, Title: Batch verification of Digital Signatures: Approaches and challenges
+Paper ID: ec38244b403cdb14d176ff12beb68fa956f78071, Count: 1, Title: A distributed, bandwidth-efficient accident prevention system for interurban VANETs
+Paper ID: 29e9e9413a91637cac6407209f699bab46a95826, Count: 1, Title: jPBC: Java pairing based cryptography
+Paper ID: 93027e93629ec4ee728285aa461c94a9a7d4f451, Count: 1, Title: Secure compression of privacy-preserving witnesses in vehicular ad hoc networks
+Paper ID: a0b7158cfb660bd973b4d60d362d75d1ebd6d4c4, Count: 1, Title: An Efficient Pseudonymous Authentication Scheme With Strong Privacy Preservation for Vehicular Communications
+Paper ID: 83912652e3b0715e6b9fed33e3ee09e87e563016, Count: 1, Title: AEMA: An Aggregated Emergency Message Authentication Scheme for Enhancing the Security of Vehicular Ad Hoc Networks
+Paper ID: 7dd9e7739633932bdcbf9e0e552b4f8f56e93a6a, Count: 1, Title: GSIS: A Secure and Privacy-Preserving Protocol for Vehicular Communications
+Paper ID: e2669f1c0b935f677ecf097f231e29d5446a3110, Count: 1, Title: The security of vehicular ad hoc networks
+Paper ID: 29183f2df0be296cbaa66d9b84e25fcb1e260c80, Count: 1, Title: A Structured ElGamal-Type Multisignature Scheme
+Paper ID: 6fdc904b4d7579efab22d80c9ff55c86de50c23b, Count: 1, Title: Secure and Lightweight Conditional Privacy-Preserving Authentication for Securing Traffic Emergency Messages in VANETs
+Paper ID: f64b3e67fad498cb444257cbbfa30f6d8b90a351, Count: 1, Title: Fine-Grained and Controlled Rewriting in Blockchains: Chameleon-Hashing Gone Attribute-Based
+Paper ID: d9ab5bbf9f8c2d805f5959fc8431965dcebe271d, Count: 1, Title: VANet security challenges and solutions: A survey
+Paper ID: 1bfae4b98e2692c0005433bbf98b30bd7162559c, Count: 1, Title: A Survey of VANET Technologies
+Paper ID: 6f553cec4887fe9cd0cc296bd16b5487dd91ccc3, Count: 1, Title: A comprehensive survey on vehicular Ad Hoc network
+Paper ID: 6a90ffe449ec9c72d2a7108efac4f945a273f060, Count: 1, Title: PoTS: A Secure Proof of TEE-Stake for Permissionless Blockchains
+Paper ID: bc7609d916487908426206242eca6bc1a8f89009, Count: 1, Title: FedCrowd: A Federated and Privacy-Preserving Crowdsourcing Platform on Blockchain
+Paper ID: c887aa46c0547a2f8d9527c196510864112183bf, Count: 1, Title: Image Copyright Protection Based on Blockchain and Zero-Watermark
+Paper ID: b8628a2e02551e44ddb638e5db06e1a95efa7fe6, Count: 1, Title: Watermarking-Based Secure Plaintext Image Protocols for Storage, Show, Deletion and Retrieval in the Cloud
+Paper ID: 92005db1dd5ed1bfd9a54a647d38a4974a398be0, Count: 1, Title: Similarity Search for Encrypted Images in Secure Cloud Computing
+Paper ID: ab91bf1192bed1bad2cf3820a6f0779710bb3b66, Count: 1, Title: Controlled alternate quantum walks based privacy preserving healthcare images in Internet of Things
+Paper ID: afaa51dce8b57e1a33e14906a2ffaa8d1cc9fa7a, Count: 1, Title: Secure outsourcing SIFT: Efficient and Privacy-Preserving Image Feature Extraction in the Encrypted Domain
+Paper ID: 27e6adc34b40dabf8f98b9ade423b005be1d1859, Count: 1, Title: A Restrained Paillier Cryptosystem and Its Applications for Access Control of Common Secret
+Paper ID: 53b4caf73fa795eb76758d134d5aaeefced2a39e, Count: 1, Title: A systematic review on the status and progress of homomorphic encryption technologies
+Paper ID: b1a8988f7840511928975a3d77356b1e1ad30346, Count: 1, Title: $PROST$ : Privacy-Preserving and Truthful Online Double Auction for Spectrum Allocation
+Paper ID: 253e87a606de41dd65fcd4d0b588a0662b860aaf, Count: 1, Title: A Cloud-User Watermarking Protocol Protecting the Right to Be Forgotten for the Outsourced Plain Images
+Paper ID: 481eb088af92e3865f21c9bd293bf9cb6cab4a19, Count: 1, Title: Data-Driven and Feedback-Enhanced Trust Computing Pattern for Large-Scale Multi-Cloud Collaborative Services
+Paper ID: 23a7ccc70d5e809360f6b0198aad78c93bc7b661, Count: 1, Title: Efficient Quantum Information Hiding for Remote Medical Image Sharing
+Paper ID: 9a6cd69043edd7c9f0c8d663ae222aed573eff4b, Count: 1, Title: An Efficient Privacy-Preserving Outsourced Computation over Public Data
+Paper ID: 37f62d94d9ab1e0610560c9f00d443c61aa2a393, Count: 1, Title: White-Hat Hacking Framework for Promoting Security Awareness
+Paper ID: fd3e2d42f00f6f9755e898e38667a2da533d5d87, Count: 1, Title: Magec: An Image Searching Tool for Detecting Forged Images in Forensic Investigation
+Paper ID: e4a706c87979562ab8506ef5722dd1e0429b226f, Count: 1, Title: $2DCrypt$ : Image Scaling and Cropping in Encrypted Domains
+Paper ID: e3f183eb4d0ac9e135d94c8d397a85df8176bf07, Count: 1, Title: The EU General Data Protection Regulation’s Impact on Website Operators and eCommerce
+Paper ID: 4d2aee963844c2818b8487b55a93217bcde789f0, Count: 1, Title: Privacy-Preserving Outsourced Calculation on Floating Point Numbers
+Paper ID: e99ad12b10e3f7d69bfa51314376047cf0fb29c9, Count: 1, Title: An Efficient Privacy-Preserving Outsourced Calculation Toolkit With Multiple Keys
+Paper ID: 84b5b475909f96d8a392050e210acc41b0124d24, Count: 1, Title: Improving Privacy and Security in Decentralized Ciphertext-Policy Attribute-Based Encryption
+Paper ID: 393b9c4905b7208795c81b0f9587b7328309f526, Count: 1, Title: Secure Overlay Cloud Storage with Access Control and Assured Deletion
+Paper ID: 7ac803e78eab5d76bb7ce2dbc811aeecc1a5be34, Count: 1, Title: An efficient and secure data sharing framework using homomorphic encryption in the cloud
+Paper ID: 0eb33bb367629c29e71dd148707592063125c2cb, Count: 1, Title: Elliptic curve ElGamal based homomorphic image encryption scheme for sharing secret images
+Paper ID: 2174035ae2d146db45ce8310017e085bf6a9ef02, Count: 1, Title: A Secure Cloud Backup System with Assured Deletion and Version Control
+Paper ID: 63569d8b7e3171174fce91443e10fededbad4ac7, Count: 1, Title: Outsourcing Multi-Party Computation
+Paper ID: cb1c3477320618d7d9944ba2de981d9d55aad717, Count: 1, Title: Recommendation for Key Management, Part 1: General (Revision 3)
+Paper ID: 16d9393477302285a5ec57e737e5734f11a4040c, Count: 1, Title: Public-Key Cryptosystems Based on Composite Degree Residuosity Classes
+Paper ID: eaeaf362343f1d9992339f6a8da0b997102ffad7, Count: 1, Title: A DCT-domain system for robust image watermarking
+Paper ID: ba624ccbb66c93f57a811695ef377419484243e0, Count: 1, Title: New Directions in Cryptography
+Paper ID: 823e3e38467547634d2a93b3781fb27470ec1168, Count: 1, Title: Efficient and Privacy-Preserving Outsourced Calculation of Rational Numbers
+Paper ID: 39d4d9b27acf3f48da9a1ecf52215c8daa47f4b8, Count: 1, Title: A Cloud-User Protocol Based on Ciphertext Watermarking Technology
+Paper ID: 45d8d93a8087a75dde375bbc5e3958c271c536a4, Count: 1, Title: Faster Secure Arithmetic Computation Using Switchable Homomorphic Encryption
+Paper ID: 09246fa6be5726ff4646971eca883f173fc5220a, Count: 1, Title: A New Assessment Measure of Shadow Image Quality Based on Error Diffusion Techniques
+Paper ID: 51eca7e0899d44db2a329e3a44b556afd6f20b96, Count: 1, Title: SAFE : Fast , Verifiable Sanitization for SSDs Or : Why encryption alone is not a solution for sanitizing SSDs
+Paper ID: e64bb9cfb08f4cba84110312f21214e6302ede90, Count: 1, Title: Blockchain-Based Audio Watermarking Technique for Multimedia Copyright Protection in Distribution Networks
+Paper ID: 7b48f63c55ea8a5499c381672db9ca3404e13795, Count: 1, Title: A blockchain-based privacy preservation scheme in multimedia network
+Paper ID: 396f76ddd645e7c21470baf534fac397a3eef7a1, Count: 1, Title: A Blockchain-based System for Secure Image Protection Using Zero-watermark
+Paper ID: 6d9c6906c7639b2497c8a491d744c1f750db6f10, Count: 1, Title: Blockchain-based P2P multimedia content distribution using collusion-resistant fingerprinting
+Paper ID: 83721103a6fd5535e943b1b575cf70862c2322a8, Count: 1, Title: Handbook of Applied Cryptography
+Paper ID: 33feebbc1e3f589f22c898cc2dbbf00d934fdfa9, Count: 1, Title: A Blockchain based approach for multimedia privacy protection and provenance
+Paper ID: 582aef3a3b065196deea3fdda04f8917f2460f9e, Count: 1, Title: What Blockchain Can and Can't Do for Copyright
+Paper ID: d5c11982c76d36d30b2dba0a74831fe4d55f6d71, Count: 1, Title: The multimedia blockchain: A distributed and tamper-proof media transaction framework
+Paper ID: b453486ae9a0ab18fe11bc4076822721b9f8afcb, Count: 1, Title: Patchwork-Based Multilayer Audio Watermarking
+Paper ID: c3ec5fb8a2abcb69fab504b834de601d6d6ae36c, Count: 1, Title: Robust time-spread echo watermarking using characteristics of host signals
+Paper ID: 927ff4c95efe9232407e6e876315d7a92fcaa19e, Count: 1, Title: Spread Spectrum-Based High Embedding Capacity Watermarking Method for Audio Signals
+Paper ID: f395bfa935029944e13057e75b1f5525be4ca478, Count: 1, Title: The Blockchain-Based Digital Content Distribution System
+Paper ID: 009a98f37876aca22ee073c24d8731b453ab46f2, Count: 1, Title: Multiple watermarking on digital audio based on DWT technique
+Paper ID: f559660e6cde9b74ee64584d2e74fafcbdb8c4d0, Count: 1, Title: Patchwork-Based Audio Watermarking Method Robust to De-synchronization Attacks
+Paper ID: d9ff6e844689e5f0536895d3c2589b1317de9b98, Count: 1, Title: Correlation-and-bit-aware multiplicative spread spectrum embedding for data hiding
+Paper ID: b287ae9d3845c9923af4cfe1926f126a5ef51528, Count: 1, Title: Robust Patchwork-Based Embedding and Decoding Scheme for Digital Audio Watermarking
+Paper ID: 03be850a84aa466190133b67223a350b360e9292, Count: 1, Title: Robust Audio Watermarking Based on Extended Improved Spread Spectrum with Perceptual Masking
+Paper ID: 99533840b7fc43a86c6d5a8ebf7b09598ffff814, Count: 1, Title: A Dual-Channel Time-Spread Echo Method for Audio Watermarking
+Paper ID: 5937a277803822450444df536f72fa8325f0ad97, Count: 1, Title: A multiple audio watermarking algorithm based on shear resisting DWT and LSB
+Paper ID: 878a869c0ccba01a4a6615b031bed027c49d00f5, Count: 1, Title: Correlation-and-Bit-Aware Spread Spectrum Embedding for Data Hiding
+Paper ID: 477d8892ce1c5a72068fef2396f0a42c407214d1, Count: 1, Title: Effective Pseudonoise Sequence and Decoding Function for Imperceptibility and Robustness Enhancement in Time-Spread Echo-Based Audio Watermarking
+Paper ID: d28a524d2608505056dba50512971ed9c5a99db2, Count: 1, Title: Multi-Layer Audio Watermarking Based on Amplitude Modification
+Paper ID: cb38e4db45775f231aca1165da8c2af39e313dfa, Count: 1, Title: Robust Multiplicative Patchwork Method for Audio Watermarking
+Paper ID: 7243fed570fa118175ae458569bfe094d553ada7, Count: 1, Title: Full-Index-Embedding Patchwork Algorithm for Audio Watermarking
+Paper ID: b582be6748acdcf77e3b9c4f23f13401e6528e46, Count: 1, Title: SVM based effective watermarking scheme for embedding binary logo and audio signals in images
+Paper ID: 36df909d8d206091039df9030eaefb65e61305e2, Count: 1, Title: Fuzzy self-adaptive digital audio watermarking based on time-spread echo hiding
+Paper ID: debecff6b4faefb5411341e2b6a2b1a14cfcb9a4, Count: 1, Title: Highly Robust, Secure, and Perceptual-Quality Echo Hiding Scheme
+Paper ID: fe1e022e7bca1fbbdcdcd9ded1ca54c09dd4e9bd, Count: 1, Title: Digital Copyright
+Paper ID: 6b5229002db2ac05bea9b3871745b733febc430f, Count: 1, Title: Robust Audio Watermark Decoding by Supervised Learning
+Paper ID: 7e3a0d97aaebc6a1ec686e4993f90cafaa2a80bc, Count: 1, Title: Digital Copyright: Law and Practice
+Paper ID: 321fd5a429263f548ebe4acb674e43ff2ab1c5cd, Count: 1, Title: Time-spread echo method for digital audio watermarking
+Paper ID: 845d15cd08c4168e8f54a46071f1f71887488336, Count: 1, Title: A novel echo-hiding scheme with backward and forward kernels
+Paper ID: 591db90b75d9e10f562d6dc4a1fc36cd27be4161, Count: 1, Title: Improved spread spectrum: a new modulation technique for robust watermarking
+Paper ID: a8a4c3257216a7c5e5c581523e325789bdebcdc7, Count: 1, Title: Spread-spectrum watermarking of audio signals
+Paper ID: 2f987930b12674b19c8ae29b8f9980b1fcc57975, Count: 1, Title: Discrete cosine transform in error control coding
+Paper ID: 129cf3ebdb410a521261ad42b81376399de1f685, Count: 1, Title: Blockchain-Watermarking for Compressive Sensed Images
+Paper ID: 228d6749f8c45b591c0dcad0910af103b363fa98, Count: 1, Title: Robust Blockchain-Based Cross-Platform Audio Copyright Protection System Using Content-Based Fingerprint
+Paper ID: fdffc150b2df8f8d60270a525f2b8fe356958480, Count: 1, Title: TPPR: A Trust-Based and Privacy-Preserving Platoon Recommendation Scheme in VANET
+Paper ID: bc058d3b84aef3e73c5eb42c7864d4bd3fe3a63e, Count: 1, Title: Reliable and Privacy-Preserving Truth Discovery for Mobile Crowdsensing Systems
+Paper ID: 16eabc5d7e4a08b88c07727c62fae41d50efe09b, Count: 1, Title: Accessibility Analysis and Modeling for IoV in an Urban Scene
+Paper ID: affcb18b6d75ec5f46c32aac9be0301d01c1545b, Count: 1, Title: AI-Assisted Network-Slicing Based Next-Generation Wireless Networks
+Paper ID: 025c22bb171f266e2e07832d0e66792954850f53, Count: 1, Title: Blockchain-Assisted Public-Key Encryption with Keyword Search Against Keyword Guessing Attacks for Cloud Storage
+Paper ID: 0f1c5ff810cfa581dc0b2f786d1ced065e4c7fc1, Count: 1, Title: Efficient and Secure Decision Tree Classification for Cloud-Assisted Online Diagnosis Services
+Paper ID: 55200392bfbd37dc2d441495bf45bd0190e55dcd, Count: 1, Title: An Efficient Message-Authentication Scheme Based on Edge Computing for Vehicular Ad Hoc Networks
+Paper ID: d4fbbbce5152d4d59215eef941b567eee5eac2d0, Count: 1, Title: A Practical and Compatible Cryptographic Solution to ADS-B Security
+Paper ID: 39eb4ed54ca13c4d00acf80890fbf10584c549d3, Count: 1, Title: Fog Computing for Detecting Vehicular Congestion, an Internet of Vehicles Based Approach: A Review
+Paper ID: 61abffb805bf13336e3cd795363c16ac35854c63, Count: 1, Title: PA-CRT: Chinese Remainder Theorem Based Conditional Privacy-Preserving Authentication Scheme in Vehicular Ad-Hoc Networks
+Paper ID: 97e84b8de323deba1d4b0bc7bca65a86ce042197, Count: 1, Title: An Efficient and Provably Secure Authenticated Key Agreement Protocol for Fog-Based Vehicular Ad-Hoc Networks
+Paper ID: e9d432967515e324f44dbd4423dbef5982a50c4f, Count: 1, Title: TSP Security in Intelligent and Connected Vehicles: Challenges and Solutions
+Paper ID: 01dbeb3c61a95f7a966ed79810a2f3682b7576a6, Count: 1, Title: A Survey on Recent Advances in Vehicular Network Security, Trust, and Privacy
+Paper ID: 9e19282cc7f97248ba11500e4deed624681fbcd5, Count: 1, Title: BLA: Blockchain-Assisted Lightweight Anonymous Authentication for Distributed Vehicular Fog Services
+Paper ID: 6b087e89125d67c062989c0d7661f2c394419455, Count: 1, Title: Secure Automated Valet Parking: A Privacy-Preserving Reservation Scheme for Autonomous Vehicles
+Paper ID: 0799d2cb67be93c4843785e70bff8237d26bfcec, Count: 1, Title: Ultra Reliable, Low Latency Vehicle-to-Infrastructure Wireless Communications with Edge Computing
+Paper ID: b8b62f0f84c1843430e1b15ed4361e9d815f9355, Count: 1, Title: Blockchain Based Secured Identity Authentication and Expeditious Revocation Framework for Vehicular Networks
+Paper ID: 7e74805e92d1c66a67ddf033cc5b55814ba7f7b9, Count: 1, Title: Fully distributed certificateless threshold signature without random oracles
+Paper ID: b5fa671bdbdf93dd2f03270b3b90c494aeb6994b, Count: 1, Title: Reliable Cooperative Authentication for Vehicular Networks
+Paper ID: d223ecd283747d16273b03b57430159939cd0538, Count: 1, Title: PASTA: PASsword-based Threshold Authentication
+Paper ID: dc232391f09b246ded8e6da9e9e377aedd4e17e2, Count: 1, Title: Analysis of handover authentication protocols for mobile wireless networks using identity-based public key cryptography
+Paper ID: 4e0138fdfce27cfb07c6cbeadee7d37e8e8bed84, Count: 1, Title: Vehicular Fog Computing: Architecture, Use Case, and Security and Forensic Challenges
+Paper ID: 3ed2265e1f5854306ebd2ed85159c4e23b8f1eb2, Count: 1, Title: Vehicle-to-Everything (v2x) Services Supported by LTE-Based Systems and 5G
+Paper ID: a4552ad6623212fbf933b13c042e3c29a95bcd8e, Count: 1, Title: SPACF: A Secure Privacy-Preserving Authentication Scheme for VANET With Cuckoo Filter
+Paper ID: 95e1e9bf02b2ae0de8b988b07a472423bb2706ea, Count: 1, Title: Enhancing Security and Privacy for Identity-Based Batch Verification Scheme in VANETs
+Paper ID: 06fe02afb81c70e444f31080e9cfe8099c678a88, Count: 1, Title: Distributed Aggregate Privacy-Preserving Authentication in VANETs
+Paper ID: f93a76ffaf8c824c4100557e78cbb208f5fe5efb, Count: 1, Title: A New ADS-B Authentication Framework Based on Efficient Hierarchical Identity-Based Signature with Batch Verification
+Paper ID: 82f62b41197388afb282fa4fe6e207fc6b23502e, Count: 1, Title: EAAP: Efficient Anonymous Authentication With Conditional Privacy-Preserving Scheme for Vehicular Ad Hoc Networks
+Paper ID: 8821c58bda827585863d0fbf5c4d3cd174b8baa4, Count: 1, Title: Analysis and Improvement of a Privacy-Aware Handover Authentication Scheme for Wireless Network
+Paper ID: 022a27f8b733d7c550688e4ad699e1cfaf8f8ed7, Count: 1, Title: An Efficient Anonymous Batch Authentication Scheme Based on HMAC for VANETs
+Paper ID: 6171d4e96d03a9ce6b9c99e6bda24a9af7b9487c, Count: 1, Title: A Threshold Anonymous Authentication Protocol for VANETs
+Paper ID: 3bda998e88f6eab9c3e6a24134359bdd5e2a1d3a, Count: 1, Title: An Efficient Identity-Based Conditional Privacy-Preserving Authentication Scheme for Vehicular Ad Hoc Networks
+Paper ID: 56a86fbcd9f7ca8f2bfee698c6f020f1dc51683e, Count: 1, Title: Handover authentication for mobile networks: security and efficiency aspects
+Paper ID: 89ca3d96599bef63bedbd1085a82491da1e7ce5e, Count: 1, Title: RSU-Based Distributed Key Management (RDKM) For Secure Vehicular Multicast Communications
+Paper ID: 571b6703272fd36a56d15874503eef769aece6a5, Count: 1, Title: A Distributed Key Management Framework with Cooperative Message Authentication in VANETs
+Paper ID: fd7c7aea6af53cb39d14bf2bd756ac1d348416ec, Count: 1, Title: Threshold Key Redistribution for Dynamic Change of Authentication Group in Wireless Mesh Networks
+Paper ID: 73f8a0544eb1570e62a06b31255b363a86bc81cd, Count: 1, Title: Securing Vehicular Ad Hoc Networks
+Paper ID: fa5728247a11f57d96f9072b07944bbefb47a97f, Count: 1, Title: Design of 5.9 ghz dsrc-based vehicular safety communication
+Paper ID: 5ebcd487c2a67b00a26717e4f484da985e3a7613, Count: 1, Title: Challenges of intervehicle ad hoc networks
+Paper ID: c7856f560dc172fa7d537ffe197629f4de1e10a0, Count: 1, Title: Threshold Password-Based Authentication Using Bilinear Pairings
+Paper ID: bdccfcb9e908460052b799d0ccf6a21e92225e35, Count: 1, Title: Threshold Cryptosystems
+Paper ID: 91ba7bf74928799b5c91644c84204c390d953428, Count: 1, Title: Threshold Signature Scheme without Using Polynomial Interpolation
+Paper ID: 8d516ef6e538cd2e2dd2ec9da5686859de33f599, Count: 1, Title: Research and Development of Copyright Registration and Monitoring System Based on Digital Watermarking and Fingerprint Technology
+Paper ID: bb8d51b5d44e114b1c7f38eb372be47884ab3e4c, Count: 1, Title: Research on digital copyright protection based on the hyperledger fabric blockchain network technology
+Paper ID: 4a6ca61510196bf32b94f7a5c48e84c0104c9233, Count: 1, Title: Research on the Application of Blockchain in Copyright Protection
+Paper ID: 0cc7e91a7b2513df38281f2b86379fe5ebb32b54, Count: 1, Title: Dynamics between blockchain adoption determinants and supply chain performance: An empirical investigation
+Paper ID: 5cb203fe683b2cbf7c9c99d31618c14ba62f7c7c, Count: 1, Title: Blockchain-Based Distributed Trust and Reputation Management Systems: A Survey
+Paper ID: 4d2a8d88e163bd4b768fe8df7c884fe0e00595e8, Count: 1, Title: Applications in Security and Evasions in Machine Learning: A Survey
+Paper ID: 340277a93278411c1591605231b3d8ea97c03656, Count: 1, Title: A Blockchain and SIFT Based System for Image Copyright Protection
+Paper ID: b7afbba2684e79815b79b3bcce6bc745eac25405, Count: 1, Title: Secure and Traceable Copyright Management System Based on Blockchain
+Paper ID: 3426355d1da65ad1d3d589a6355194a987d7406c, Count: 1, Title: Digital Resource Rights Confirmation and Infringement Tracking Based on Smart Contracts
+Paper ID: deddcee3afa533f006e1f00c46729cf00d60f88e, Count: 1, Title: Blockchain-based photo forensics with permissible transformations
+Paper ID: 369f38364899c2bc51ef1d68e62749987fc40faf, Count: 1, Title: Decentralized Autonomous Video Copyright Protection
+Paper ID: 35e053cae4123631f9f589f5bbb72585af7d6c4f, Count: 1, Title: An Electronic Prescription System powered by Speech Recognition, Natural Language Processing and Blockchain Technology
+Paper ID: b4ad8c8b54415ccdf65f245978f6391d24ca4984, Count: 1, Title: Privacy-Preserving Forwarding Using Homomorphic Encryption for Information-Centric Wireless Ad Hoc Networks
+Paper ID: c6579c7458c3e3e21924222c1b2addb23ac6857a, Count: 1, Title: The Digital Copyright Management System Based on Blockchain
+Paper ID: ba97aee448c165adc9e126cdb074cbda1dbcf263, Count: 1, Title: Design and Implementation of the Ascend Secure Processor
+Paper ID: cb9559bffcc39d165ec36552cf1d76d33a74560a, Count: 1, Title: Toward a Blockchain Based Image Network Copyright Transaction Protection Approach
+Paper ID: bfd132551af5d4700cb9383cbc8eeeaa0482cf51, Count: 1, Title: Digital Copyright Works Management System Based on DOSA
+Paper ID: 9bd3bbff90d8b1eafd32ba4f42d67246375a5361, Count: 1, Title: MD5 Secured Cryptographic Hash Value
+Paper ID: bba00d5737e63bcd1b7dc8b0bbc0d93f04f07709, Count: 1, Title: Intellectual Property Law and Practice in the Blockchain Realm
+Paper ID: 2bfea9a7fe40e127eba9dab0fa44dd2dfc10849f, Count: 1, Title: FastPM: An approach to pattern matching via distributed stream processing
+Paper ID: 7d680c153304551a453186f4fa5af22c4c3982ba, Count: 1, Title: On Building Efficient Temporal Indexes on Hyperledger Fabric
+Paper ID: 82828ffd61b6cd359c8984f2554a207a1c8f9555, Count: 1, Title: When the Crypto in Cryptocurrencies Breaks: Bitcoin Security under Broken Primitives
+Paper ID: da71649cb6930a20d24447ed516b5656958c59cc, Count: 1, Title: A Novel IoT Authorization Architecture on Hyperledger Fabric With Optimal Consensus Using Genetic Algorithm
+Paper ID: bf2f0779d54fb29f16aa5e8b08373a5654befab5, Count: 1, Title: A TOTP-Based Two Factor Authentication Scheme for Hyperledger Fabric Blockchain
+Paper ID: 1b10637a5c439cf0c2c890480182c4c770ba8272, Count: 1, Title: Design Thinking using the Blockchain: Enable Traceability of Intellectual Property in Problem-Solving Processes for Open Innovation
+Paper ID: 1b4c39ba447e8098291e47fd5da32ca650f41181, Count: 1, Title: Hyperledger fabric: a distributed operating system for permissioned blockchains
+Paper ID: 056797447bc10d76c13a41685801adcc5688646c, Count: 1, Title: On Federated and Proof Of Validation Based Consensus Algorithms In Blockchain
+Paper ID: 01adebba32aadf75203cd54e59633715580a1fd8, Count: 1, Title: Intellectual-Property Blockchain-Based Protection Model for Microfilms
+Paper ID: 2d024cda9043514b9335bd1fcdc288b74983220e, Count: 1, Title: A Survey on Learning to Hash
+Paper ID: d5365a1f9d8ae04f3932eec02b898a91cd7aa0e1, Count: 1, Title: Copyright Protection using Digital Watermarking
+Paper ID: 3bf9449b36eb39ecf652c63947af37461b8cc578, Count: 1, Title: A Blockchain-Based Traceable IP Copyright Protection Algorithm
+Paper ID: b7c6ddae7afd6987e764a9f9ab0dfd73740cd3cf, Count: 1, Title: Efficient peer-to-peer file sharing using network coding in MANET
+Paper ID: 7307a994270c31d9b23453dae6055dc3ca328881, Count: 1, Title: Digital image watermarking methods for copyright protection and authentication
+Paper ID: 6bc1d36d1ca25ea7950cfce19e99cd1ef00af1bc, Count: 1, Title: Digital watermarks for copyright protection
+Paper ID: 58e1d98ec5eaf49a3fd3bddcec3298dcd1897e71, Count: 1, Title: Information rules - a strategic guide to the network economy
+Paper ID: 703b51c2dc4c86761c571e32645435c8b56d224b, Count: 1, Title: Security Challenges and Opportunities for Smart Contracts in Internet of Things: A Survey
+Paper ID: b9c61f4fe44ff00315752c8dd3c000c9a93b12a2, Count: 1, Title: Non-Equivocation in Blockchain: Double-Authentication-Preventing Signatures Gone Contractual
+Paper ID: c64ed236cb6a53cbf85045ba712abf85c0a36c62, Count: 1, Title: Traceable Monero: Anonymous Cryptocurrency with Enhanced Accountability
+Paper ID: 54740acff4c4b77dffb909da826ff17c3a29cc70, Count: 1, Title: Generic Double-Authentication Preventing Signatures and a Post-Quantum Instantiation
+Paper ID: 03b6c1dd0544421aa77d34492aec8085b3a7dcfb, Count: 1, Title: Shorter double-authentication preventing signatures for small address spaces
+Paper ID: ed9d7c809f07703e24b242cb30370bf59291d986, Count: 1, Title: Short Double- and N-Times-Authentication-Preventing Signatures from ECDSA and More
+Paper ID: 4282e7d26f0eed923e8d516e554aa179bc122021, Count: 1, Title: Fair deposits against double-spending for Bitcoin transactions
+Paper ID: 8705370d5668bd3e19edecb0fda7f73714d3f0d4, Count: 1, Title: Lattice-Based DAPS and Generalizations: Self-enforcement in Signature Schemes
+Paper ID: 17e97ec4353a76664a0d665fb3839bea3e09aaa1, Count: 1, Title: Catena: Efficient Non-equivocation via Bitcoin
+Paper ID: c4ad65043658707ecde99876d2e93f3bb2c26c89, Count: 1, Title: Deterring Certificate Subversion: Efficient Double-Authentication-Preventing Signatures
+Paper ID: 1f42fdecd70a7d72f0f108e80511320f7204316c, Count: 1, Title: Blockstack: A Global Naming and Storage System Secured by Blockchains
+Paper ID: ed2df18c9c0c255ef1531917768e132aba94bb7c, Count: 1, Title: Liar, Liar, Coins on Fire!: Penalizing Equivocation By Loss of Bitcoins
+Paper ID: 019b5b8e54b10860d39dac8f449c9d3db173527b, Count: 1, Title: How to Use Bitcoin to Incentivize Correct Computations
+Paper ID: 92b90f0171cf83a3b03b859e514100830578fab8, Count: 1, Title: Double-authentication-preventing signatures
+Paper ID: d8613e7c878040c731853b27e2162228cb655888, Count: 1, Title: How to Use Bitcoin to Design Fair Protocols
+Paper ID: d4973d1dc1b603c8dde2cf014f5687271aef92df, Count: 1, Title: Asynchronous MPC with a strict honest majority using non-equivocation
+Paper ID: 296d9f37bb1ec28ca7c1b24ec3f60604eeccdc45, Count: 1, Title: How to keep a secret: leakage deterring public-key cryptosystems
+Paper ID: 1d8e009e8e5c1974336f15ac1776fdfc6520c700, Count: 1, Title: Implementing Cryptographic Pairings over Barreto-Naehrig Curves
+Paper ID: 5d1e42c79a9db00ccb6e3f53f2e2444b91daef68, Count: 1, Title: Round-Optimal and Efficient Verifiable Secret Sharing
+Paper ID: 419b610056a562b15ce6912320b105db748b16d7, Count: 1, Title: Digital signatures
+Paper ID: d4bd74e4b3007724ee0b78532d232bbbd4c3c2ef, Count: 1, Title: Broadcast Encryption
+Paper ID: 26747053b4bc759f4517f2d570b7c0227d116c2c, Count: 1, Title: Non-Interactive and Information-Theoretic Secure Verifiable Secret Sharing
+Paper ID: 9ccf7b6cb32cf89752a35bd910555adac54773e0, Count: 1, Title: The Knowledge Complexity of Interactive Proof Systems
+Paper ID: 8f3282f4141f3a096f821a19aeeaf0f9f6c491f6, Count: 1, Title: Verifiable secret sharing and achieving simultaneity in the presence of faults
+Paper ID: 06a1d8fe505a4ee460e24ae3cf2e279e905cc9b0, Count: 1, Title: A public key cryptosystem and a signature scheme based on discrete logarithms
+Paper ID: b9046d002da153a6fe9b06d469da4efffdfcb9c6, Count: 1, Title: How to Prove Yourself: Practical Solutions to Identification and Signature Problems
+Paper ID: c0c9aa2cc8e53f8b88d6d35d1ea4fef1db10b4c3, Count: 1, Title: A DWT-SVD based adaptive color multi-watermarking scheme for copyright protection using AMEF and PSO-GWO
+Paper ID: 8772ee13ed63ddc936c85e0c81a6a706a8d9709d, Count: 1, Title: A combined domain watermarking algorithm of color image
+Paper ID: 712a14e3e69eacc0122e6f8b45df773bd5e10e9d, Count: 1, Title: Robust image watermarking using invariant accurate polar harmonic Fourier moments and chaotic mapping
+Paper ID: 5c361a47c50dba73382230fbe6f127f6a6613757, Count: 1, Title: Fractional Charlier moments for image reconstruction and image watermarking
+Paper ID: 53b369e64f555122984f923b285b828567f6cddb, Count: 1, Title: A secure blind discrete wavelet transform based watermarking scheme using two-level singular value decomposition
+Paper ID: 07319fc31032eb1e6e11dcdc40e8ce98b75a9692, Count: 1, Title: Optimized watermarking technique using self-adaptive differential evolution based on redundant discrete wavelet transform and singular value decomposition
+Paper ID: afe17c51c7b5d190c154c02f48b644381bc87f97, Count: 1, Title: Local multi-watermarking method based on robust and adaptive feature extraction
+Paper ID: 428a6d8944d7bc4253562e3bc972632f0d35016b, Count: 1, Title: Novel dynamic color image watermarking based on DWT-SVD and the human visual system
+Paper ID: 04655459aa9ecf4b628606aa147c18e6c471713e, Count: 1, Title: A novel hybrid of DCT and SVD in DWT domain for robust and invisible blind image watermarking with optimal embedding strength
+Paper ID: e476b958b4b51bb20793e8e2044765800af19f40, Count: 1, Title: An evolutionary programming approach for securing medical images using watermarking scheme in invariant discrete wavelet transformation
+Paper ID: b5301be74bab1350b68054c28c81cdb9201690fd, Count: 1, Title: Optical colour image watermarking based on phase-truncated linear canonical transform and image decomposition
+Paper ID: a1611fab53afc836eb37ef079934787ecd98df3a, Count: 1, Title: A Robust Image Watermarking Technique With an Optimal DCT-Psychovisual Threshold
+Paper ID: 0754f42faa9bc6989a02f9396cc40bb3282b4fbf, Count: 1, Title: Robust color image watermarking using invariant quaternion Legendre-Fourier moments
+Paper ID: 4b741c75d4b96b5bd00b5b4ac205d4e5a5ea46d1, Count: 1, Title: A proposed secure multiple watermarking technique based on DWT, DCT and SVD for application in medicine
+Paper ID: 3f2488fdf26efa679bb6a357b4f7b465c6ff3571, Count: 1, Title: A new reliable optimized image watermarking scheme based on the integer wavelet transform and singular value decomposition for copyright protection
+Paper ID: fc42b98e802e9a5116a004b82f7e0637ee466f15, Count: 1, Title: Optical encryption scheme for multiple color images using complete trinary tree structure
+Paper ID: a3007ce971616b3ee873279f01b6c9d683eaa739, Count: 1, Title: An algorithm for robust image watermarking based on the DCT and Zernike moments
+Paper ID: 07b0bcbefe9e900f0e05b6561743d3cb655a05d5, Count: 1, Title: An SVD Based Location Specific Robust Color Image Watermarking Scheme Using RDWT and Arnold Scrambling
+Paper ID: fae463cffe6d082e3b5caf63997acd83c4907078, Count: 1, Title: DWT–SVD–WHT Watermarking Using Varying Strength Factor Derived From Means of the WHT Coefficients
+Paper ID: 323cf6c246d4ea6a1f3e9c3f0c2523267ec01cc5, Count: 1, Title: Invariant image watermarking using accurate Polar Harmonic Transforms
+Paper ID: 6e7fa71d9c3fc773b92f62c853816139097357fe, Count: 1, Title: A novel blind color image watermarking using upper Hessenberg matrix
+Paper ID: acd87285eddeb346d48713cbdc53443102b0e67e, Count: 1, Title: Multipurpose image watermarking in the domain of DWT based on SVD and ABC
+Paper ID: 3050419ddfafb66f7f821cbc3f6323769941666d, Count: 1, Title: An improved robust image watermarking method using DCT and YCoCg-R color space
+Paper ID: aaff0336307138ab92439b651d6e78257b2af54f, Count: 1, Title: A quality guaranteed robust image watermarking optimization with Artificial Bee Colony
+Paper ID: e6ca214dfb566f7d197b21c9637c5f7169844136, Count: 1, Title: Exploring the learning capabilities of convolutional neural networks for robust image watermarking
+Paper ID: cee9e04be0c1e7663c545275adcbab3f7336dc82, Count: 1, Title: A robust semi-blind watermarking for color images based on multiple decompositions
+Paper ID: 57721ca040600bed7d8bb31b130807743e6af331, Count: 1, Title: Multiple watermarking technique for securing online social network contents using Back Propagation Neural Network
+Paper ID: c7ce09a7fe3716e9d289b8b67ea80619ae7b1fe8, Count: 1, Title: A QDCT- and SVD-based color image watermarking scheme using an optimized encrypted binary computer-generated hologram
+Paper ID: 021624e42ba8e540cb4f3f76ea11ca8e63b94cc1, Count: 1, Title: A novel hybrid PSO–GWO approach for unit commitment problem
+Paper ID: 21d08a9d54b6d18afc834b392974d5f24cb0216a, Count: 1, Title: Invariant color image watermarking approach using quaternion radial harmonic Fourier moments
+Paper ID: 2d69f30b0b8e9c440a24aacc1b9fc09553df5b19, Count: 1, Title: Robust transparent image watermarking with Shearlet transform and bidiagonal singular value decomposition
+Paper ID: 15eab26caefb0589adb7f64bf74f8ef67a203eb3, Count: 1, Title: Robust and blind watermarking technique in DCT domain using inter-block coefficient differencing
+Paper ID: d87d70ecd0fdf0976cebbeaeacf25ad9872ffde1, Count: 1, Title: Robust and false positive free watermarking in IWT domain using SVD and ABC
+Paper ID: 53173dba95d20a8290510906db4fea6313cf7066, Count: 1, Title: Robust watermarking using orthogonal Fourier-Mellin moments and chaotic map for double images
+Paper ID: 8c61e5d4ab08d118b26a49288e54e4d0a59c8215, Count: 1, Title: Group multiple-image encoding and watermarking using coupled logistic maps and gyrator wavelet transform.
+Paper ID: 753988cd61d17a677511df50fc3f6c40ba29ae1c, Count: 1, Title: Digital Image Watermarking via Adaptive Logo Texturization
+Paper ID: 1ae18291e6d0c06ace8c2e0623cbc85bae5fe12f, Count: 1, Title: Bessel-Fourier moment-based robust image zero-watermarking
+Paper ID: 2b1013fa462706aa11383a106c4c721caa3f1b48, Count: 1, Title: Optimized gray-scale image watermarking using DWT-SVD and Firefly Algorithm
+Paper ID: d74301e6a6666bed696d73652589de72be81e1be, Count: 1, Title: A new robust color image watermarking using local quaternion exponent moments
+Paper ID: 4eb37fccd998165426917a7e75cad7609046d087, Count: 1, Title: Perceptual DFT Watermarking With Improved Detection and Robustness to Geometrical Distortions
+Paper ID: bacb1bfe55a434c3847c4924f1dd7ea180fefaa3, Count: 1, Title: A new robust digital watermarking based on exponent moments invariants in nonsubsampled contourlet transform domain
+Paper ID: 90c4f1878b61f27d2ed4790a7913711842620f02, Count: 1, Title: A novel blind robust image watermarking in DCT domain using inter-block coefficient correlation
+Paper ID: 695bd9bb89df717227357a4ee8d15843a11f3609, Count: 1, Title: Grey Wolf Optimizer
+Paper ID: 226a90a14217ac41492e54414bd4077b282219f4, Count: 1, Title: A robust SVD-based image watermarking using a multi-objective particle swarm optimization
+Paper ID: 105d5cbbf849ffc7892e66fccceb315a46707c02, Count: 1, Title: Blind digital watermarking method in the fractional Fourier transform domain
+Paper ID: e7d9fba6e9af063fd7ae353998e724239ae52936, Count: 1, Title: Color image encryption based on gyrator transform and Arnold transform
+Paper ID: cfa8b79239976c38770a05c6efd61dcb8222435a, Count: 1, Title: Geometrically invariant image watermarking using Polar Harmonic Transforms
+Paper ID: 7402bd9fc6dc154f384f232c4bd0bf5004883bfe, Count: 1, Title: Performance evaluation of moment-based watermarking methods: A review
+Paper ID: b349a638938d3e1a228010bd6aaafbd81c9cd187, Count: 1, Title: A new robust adjustable logo watermarking scheme
+Paper ID: 0d6e20ec0f5a0311deacced4cae2b5fca5967411, Count: 1, Title: Affine Legendre Moment Invariants for Image Watermarking Robust to Geometric Distortions
+Paper ID: 81883b66ef458639bb53391de51c29eeb94f23d6, Count: 1, Title: An improved SVD-based watermarking scheme using human visual characteristics
+Paper ID: dad5932e2a40c87d17e40cf8d072ffdb43046fd9, Count: 1, Title: Scope of validity of PSNR in image/video quality assessment
+Paper ID: bffaf8465ee0763cd26e02218093413c2802e780, Count: 1, Title: Geometric invariant blind image watermarking by invariant Tchebichef moments.
+Paper ID: e8dd9975c01722a3e5040852a349f1714b21dd04, Count: 1, Title: A robust multimedia watermarking technique using Zernike transform
+Paper ID: 6fe33a4e2415e180a467d6507c7d86baae6ba8fb, Count: 1, Title: Improved wavelet-based watermarking through pixel-wise masking
+Paper ID: 6ff8d0d2d0445d5fbf43f16e21474b82d9eb78fd, Count: 1, Title: A vector quantization scheme using prequantizers of human visual effects
+Paper ID: 96a2dd5896b802b1e0be108925dee1a22060bac7, Count: 1, Title: A prequantizer with the human visual effect for the DPCM
+Paper ID: 84b1f3352b9b295432a5ec20ceeb2aad86b07db3, Count: 1, Title: A Novel Optimized Semi-Blind Scheme for Color Image Watermarking
+Paper ID: de34982333ce26ff9cd1682febbed4afff3e58a2, Count: 1, Title: A DWT-SVD based Robust Digital Watermarking for Digital Images
+Paper ID: 77fd2b8f9f61fef75eada435209e8b82a93d752f, Count: 1, Title: A robust image watermarking method based on DWT, DCT, and SVD using a new technique for correction of main geometric attacks
+Paper ID: 311c4828ca77438a43d68e229da90ff2b2401180, Count: 1, Title: Block-based discrete wavelet transform-singular value decomposition image watermarking scheme using human visual system characteristics
+Paper ID: c7a7330383ebe5945d4d61ca30ee9318cf32e6a4, Count: 1, Title: Geometrically resilient digital watermarking scheme based on radial harmonic Fourier moments magnitude
+Paper ID: 893bf533d1f47fac7a48452d82be51a481f35362, Count: 1, Title: An optimized watermarking technique based on self-adaptive DE in DWT-SVD transform domain
+Paper ID: b4df5f57ca814e67e3a778283f5d3db1afe94e66, Count: 1, Title: Digital Image Watermarking Based on LSB for Gray Scale Image
+Paper ID: e3adb90c475685a1913098159116964e3fb0026f, Count: 1, Title: An improved SVD-based watermarking technique for copyright protection
+Paper ID: 0dd406a55abebc0c2c22b0203fc9d643ebbbff59, Count: 1, Title: A Robust Image Watermarking Scheme using Image Moment
+Paper ID: 30a12f29f84d4dea047ca3f714af879609b18ef3, Count: 1, Title: Privacy-preserving range query over multi-source electronic health records in public clouds
+Paper ID: 905315d99cc470a881d9e2392784f74b7aa0b465, Count: 1, Title: An Enhanced and Resource-Aware RFID Multitag Grouping Protocol
+Paper ID: ed0019791de620e7235d596107fabaea68b1ba85, Count: 1, Title: Blockchain-Based Public Integrity Verification for Cloud Storage against Procrastinating Auditors
+Paper ID: 279ac0c9c83ede1bb29df5d750a009d573690ffb, Count: 1, Title: Proactive Batch Authentication: Fishing Counterfeit RFID Tags in Muddy Waters
+Paper ID: 74d1060c1224c7b0c5476202dd7e81b1209f0b4b, Count: 1, Title: Privacy-Preserving Authentication in Wireless IoT: Applications, Approaches, and Challenges
+Paper ID: a8657047802022de19b5c6a8d4acab2d9f4b8e9b, Count: 1, Title: One‐round provably secure yoking‐proof for RFID applications
+Paper ID: 04e0dc15479d15964c50eac4d358e8fc89a8bf2f, Count: 1, Title: Two-Hop Distance-Bounding Protocols: Keep Your Friends Close
+Paper ID: 5182a6d68bead15dc35933cff693abf1f3491b7f, Count: 1, Title: Lightweight and Practical Anonymous Authentication Protocol for RFID Systems Using Physically Unclonable Functions
+Paper ID: 24ec59faf274b4c0e31a1064cf1d159f41df12dc, Count: 1, Title: Exploring relationship between indistinguishability-based and unpredictability-based RFID privacy models
+Paper ID: 766b9b6b3e0115b45f7bdb5d0c0907cb1b1eec65, Count: 1, Title: Security of Grouping-Proof Authentication Protocol for Distributed RFID Systems
+Paper ID: 15d1450a8797e2feaa4c0ca4ebcd43c8cbd8b61d, Count: 1, Title: Querying in Internet of Things with Privacy Preserving: Challenges, Solutions and Opportunities
+Paper ID: c21599994edbcd2da002f547a6368a5729439f71, Count: 1, Title: HB+DB: Distance bounding meets human based authentication
+Paper ID: d2d88d3bcfffd50d290487b34ec1341b23c672a6, Count: 1, Title: A New Scalable Lightweight Grouping Proof Protocol for RFID systems
+Paper ID: e768689d78cb6b11a3d1d22d27c36a2df9843a73, Count: 1, Title: An over-the-air key establishment protocol using keyless cryptography
+Paper ID: dee4bb9ee305d9ddcdbac816e2f1d835026382a5, Count: 1, Title: One-Round Provably Secure Yoking-Proof for RFID Applications
+Paper ID: eac42062ad9bb37bb5ca9da85f429cef6c9c1b40, Count: 1, Title: Lightweight Anonymous Authentication Protocols for RFID Systems
+Paper ID: bbeef73f1209754c002323869464074276fed060, Count: 1, Title: A new lightweight RFID grouping authentication protocol for multiple tags in mobile environment
+Paper ID: 7d3d3d953eafb57cb8b5a6fe3d34759f938702d4, Count: 1, Title: An efficient and provably secure RFID grouping proof protocol
+Paper ID: fbe065f77e4d5c299b8b8c6f951f8e9ab83e5d2a, Count: 1, Title: Privacy-Preserving Yoking Proof with Key Exchange in the Three-Party Setting
+Paper ID: 378b310cc81fa12e39cdf5edea9bdf903fb2f479, Count: 1, Title: Practical limitation of co-operative RFID jamming methods in environments without accurate signal synchronization
+Paper ID: fb6cf7160de74150019fa60de9c21aaf5ef23c7b, Count: 1, Title: Two rounds RFID grouping-proof protocol
+Paper ID: ee2813542f3bac082e41c62942afb3ed1a114d89, Count: 1, Title: A universally composable secure grouping‐proof protocol for RFID tags
+Paper ID: 4b9ab1051580a9d8d92d35df6d3777ee45f6b238, Count: 1, Title: Zero Knowledge Grouping Proof Protocol for RFID EPC C1G2 Tags
+Paper ID: e350d4e5ae15148467675b4bbeff635485bd8fc1, Count: 1, Title: Probabilistic yoking proofs for large scale IoT systems
+Paper ID: 905162382cf80db8402e64ed58029fa366a2d35c, Count: 1, Title: A Provable Secure Batch Authentication Scheme for EPCGen2 Tags
+Paper ID: 67bfd431c67c662363916ee300d1bcf97bbb92bb, Count: 1, Title: Practical Secret Key Agreement for Full-Duplex Near Field Communications
+Paper ID: a10b96e6d97c00716a3d74d58eef067d33912355, Count: 1, Title: A Robust Grouping Proof Protocol for RFID EPC C1G2 Tags
+Paper ID: c7283e22f1560ad70730fc06e6a93647d87599db, Count: 1, Title: Grouping-Proofs-Based Authentication Protocol for Distributed RFID Systems
+Paper ID: da5c66fd09c14019b4619ec1741d122795572576, Count: 1, Title: Tag Group Authentication Using Bit-Collisions
+Paper ID: 8f1f7bebb74336ba66880b7a2c0ec8ae5cf6e145, Count: 1, Title: Anticollision Protocols for Single-Reader RFID Systems: Temporal Analysis and Optimization
+Paper ID: 39066e6c64cdd17a683cdb539c4a0e120fe04274, Count: 1, Title: Identification-free batch authentication for RFID tags
+Paper ID: 5f15f88f3c19116cb3bfbd2d58b05ff47e0f6c79, Count: 1, Title: Reading order independent grouping proof for RFID tags
+Paper ID: 89840ff53cb0fd6c752eb1507b5f058023e16f07, Count: 1, Title: Modulating a noisy carrier signal for eavesdropping-resistant HF RFID
+Paper ID: 019cf178f424f5a11ae134b447a219ab049200ee, Count: 1, Title: A Platform for RFID Security and Privacy Administration (Awarded Best Paper!)
+Paper ID: 28e191651541715ade719bbb177199b5e2c7cf5c, Count: 1, Title: "Yoking-proofs" for RFID tags
+Paper ID: 9ca7e3ffce67fdd94e98f7243accf0656521dfde, Count: 1, Title: Tree algorithms for packet broadcast channels
+Paper ID: 1099bd5422a9fce5567808af9750ad9649c5057e, Count: 1, Title: THE ALOHA SYSTEM: another alternative for computer communications
+Paper ID: 2e7c6a016e1a1c76396efb492d47b191526624f8, Count: 1, Title: An Anonymous Offline RFID Grouping-Proof Protocol
+Paper ID: 8e0cf4dba29c1f83b529f3394a45e8c8ac2b6d71, Count: 1, Title: Universally Composable RFID Mutual Authentication
+Paper ID: fb6cdfc1e3e3c9e552efdd5cbad340cbf77a2bdd, Count: 1, Title: Oruta: Privacy- Preserving Public Auditing for Shared Data in the Cloud
+Paper ID: 1b1e5602f50ee73917c686ab15b3190f8c833c49, Count: 1, Title: Dynamic-Hash-Table Based Public Auditing for Secure Cloud Storage
+Paper ID: 52aebf99464ccf2b798eb1b143c6a7f1ba405f8c, Count: 1, Title: An Efficient Public Auditing Protocol With Novel Dynamic Structure for Cloud Data
+Paper ID: 58207192d166abd97000434cf71bad091e986779, Count: 1, Title: Lightweight Delegatable Proofs of Storage
+Paper ID: 02143a479ab76c1a8793d3669a25e72ead827869, Count: 1, Title: Symmetric-Key Based Proofs of Retrievability Supporting Public Verification
+Paper ID: 5e03aa5b0d561c2ee4fcece80c9ee31f9b275257, Count: 1, Title: Practical dynamic proofs of retrievability
+Paper ID: 0a94b9a224b4aae3c75eba8c3be865394ecd8baa, Count: 1, Title: Candidate Indistinguishability Obfuscation and Functional Encryption for all Circuits
+Paper ID: 90f5b54bbab2b71f737bf8b0a40d660f2baa267f, Count: 1, Title: An Efficient and Secure Dynamic Auditing Protocol for Data Storage in Cloud Computing
+Paper ID: 646ed42a0cf7d762de38204649388c3447a23da3, Count: 1, Title: Dynamic Proofs of Retrievability Via Oblivious RAM
+Paper ID: 888fe5d88cee4cb240d5dd97b62826ef7e6aaef7, Count: 1, Title: Proofs of retrievability with public verifiability and constant communication cost in cloud
+Paper ID: ba995fe25ce874b63cad7cbc023ff28d6a14da51, Count: 1, Title: Efficient dynamic provable possession of remote data via balanced update trees
+Paper ID: 3a0614d051b7995a7896176a27be4adfb7336fb4, Count: 1, Title: Dynamic Audit Services for Outsourced Storages in Clouds
+Paper ID: 9fe91ae98e6119dd6e0efad3c5b5f2f654bf0107, Count: 1, Title: Privacy-Preserving Public Auditing for Secure Cloud Storage
+Paper ID: 1ab6993067f586ba0abf27193e604be54d83ee8d, Count: 1, Title: Data storage auditing service in cloud computing: challenges, methods and opportunities
+Paper ID: 7851bb15645f32940f1884b73b702890f1211712, Count: 1, Title: Towards efficient proofs of retrievability
+Paper ID: 4a73aa36a6977266b142dea51d55571b8586a709, Count: 1, Title: A Privacy-Preserving Remote Data Integrity Checking Protocol with Data Dynamics and Public Verifiability
+Paper ID: daf25c86da4f9e62fd54fed4079afd98f8b3f4b3, Count: 1, Title: Remote data checking using provable data possession
+Paper ID: 7f4d968f36f284485bd2e0685444d8c5c02233b4, Count: 1, Title: Dynamic audit services for integrity verification of outsourced storages in clouds
+Paper ID: 7ee3e64ef377c70d496fa870c35db737d8c0096a, Count: 1, Title: Constant-Size Commitments to Polynomials and Their Applications
+Paper ID: 096d56a48b9bc9e76ed90f490567a56877299260, Count: 1, Title: Toward publicly auditable secure cloud data storage services
+Paper ID: 7f415e318928fdad206b2984994a5a5ed58a2b35, Count: 1, Title: Privacy-Preserving Public Auditing for Data Storage Security in Cloud Computing
+Paper ID: 9bf0630db2405446432852999d4a680374865ea5, Count: 1, Title: Proofs of Storage from Homomorphic Identification Protocols
+Paper ID: 9411ddb9b86ad4879c0932fa6260c57e7a7cfb21, Count: 1, Title: Proofs of retrievability: theory and implementation
+Paper ID: 8a87a19160733a67245bfc7d3148a03ebec85d89, Count: 1, Title: HAIL: a high-availability and integrity layer for cloud storage
+Paper ID: 4d35d42db0da0f766ef717f9f63df7ebee4e5990, Count: 1, Title: Dynamic provable data possession
+Paper ID: b3d6e545cf259c63b81526624e2a0a47844818aa, Count: 1, Title: Enabling Public Verifiability and Data Dynamics for Storage Security in Cloud Computing
+Paper ID: ea65ff18116b3a67da42c83e21eabff173d464c1, Count: 1, Title: Leakage-Resilient Public-Key Cryptography in the Bounded-Retrieval Model
+Paper ID: 17ef8f79a392ad8553144cb8a1a40595671d8521, Count: 1, Title: Ensuring data storage security in Cloud Computing
+Paper ID: 3b30ffd905aaa30e8bff75b3bff2c7a47a9860d1, Count: 1, Title: Proofs of Retrievability via Hardness Amplification
+Paper ID: ed5685db1beb05fea431a5548a115a099f656418, Count: 1, Title: Compact Proofs of Retrievability
+Paper ID: 8c4e1d1a9cfc0c393a2e2ab0d4e9005d04ccbe56, Count: 1, Title: Publicly Verifiable Remote Data Integrity
+Paper ID: 95115ea32670512beec25b97a47838cfcc1864d6, Count: 1, Title: Remote Integrity Check with Dishonest Storage Server
+Paper ID: b3c7af3cf2322505da2327add85555a94e1c834d, Count: 1, Title: Scalable and efficient provable data possession
+Paper ID: d4817c1cc065a7b4204da24b9a9d18f8ca3bca16, Count: 1, Title: Efficient Remote Data Possession Checking in Critical Information Infrastructures
+Paper ID: 91ee66d8204b5c13ca00bf10c83ef2d4842860ab, Count: 1, Title: MR-PDP: Multiple-Replica Provable Data Possession
+Paper ID: 67708229c4579adabf7a2fbe0178a610d2eff788, Count: 1, Title: Provable data possession at untrusted stores
+Paper ID: d17a819dbd6a6c104d41125fb9edf9f9e11e0a4a, Count: 1, Title: Pors: proofs of retrievability for large files
+Paper ID: 3b48b6c79dec4791c36e6623cb0e5bfea6c2a383, Count: 1, Title: AN ALGORITHM FOR THE ORGANIZATION OF INFORMATION
+Paper ID: deb34a26594db07d13b19e497521b052d129c5ad, Count: 1, Title: Polynomial Codes Over Certain Finite Fields
+Paper ID: f424e47ce070136259619d4469e5ab300803195a, Count: 1, Title: A Novel Efficient Remote Data Possession Checking Protocol in Cloud Storage
+Paper ID: ff4c6224296a7d0732f1969e20249efb05da36eb, Count: 1, Title: Implementing Cryptographic Program Obfuscation
+Paper ID: 287857ad9e1889afa429a2a34b6bfb0efae4787f, Count: 1, Title: Towards Secure and Dependable Storage Services in Cloud Computing
+Paper ID: a442cc678671732e8e1ff1168ca10ecabfe21256, Count: 1, Title: Lightweight and Privacy-Preserving Delegatable Proofs of Storage
+Paper ID: 05cb06f6a0ca0c9704bd34d9a1575e4c25d023db, Count: 1, Title: A Sample of Samplers - A Computational Perspective on Sampling (survey)
+Paper ID: aaad581825282e0e620e5cf84297bfe7aff1510d, Count: 1, Title: CPchain: A Copyright-Preserving Crowdsourcing Data Trading Framework Based on Blockchain
+Paper ID: 33b828a66a5a53972740dfb7e2ea283cdd68c3cb, Count: 1, Title: Enabling Verifiable and Dynamic Ranked Search over Outsourced Data
+Paper ID: d3ce84ab5862983599ef9fe5a121093ed29a3af1, Count: 1, Title: Truthful Crowdsensed Data Trading Based on Reverse Auction and Blockchain
+Paper ID: e388eff5e93b155fbe80cd3eb55fae35cc18ebbf, Count: 1, Title: AccountTrade: Accountability Against Dishonest Big Data Buyers and Sellers
+Paper ID: 1d50426c2b66499b7409d73031fc2fc711f19710, Count: 1, Title: Truthful Incentive Mechanism for Nondeterministic Crowdsensing with Vehicles
+Paper ID: 52b9180e6ec779acd772b8cd678245296ced28b1, Count: 1, Title: Reducing Uncertainty of Schema Matching via Crowdsourcing with Accuracy Rates
+Paper ID: 4202ceb8ec0eefb6823f853315b6a9314dabf9f2, Count: 1, Title: MPCSToken: Smart Contract Enabled Fault-Tolerant Incentivisation for Mobile P2P Crowd Services
+Paper ID: d32e541b4d1a860e98c76d2b4305486e9627076d, Count: 1, Title: Incentive-Based Entity Collection Using Crowdsourcing
+Paper ID: 8bc5d06d2a6033ecfb39d373a663bee2b28fee52, Count: 1, Title: CrowdBuy: Privacy-friendly Image Dataset Purchasing via Crowdsourcing
+Paper ID: f673051978825fc796b2b8812808ca6cd8de83f2, Count: 1, Title: A Survey on Big Data Market: Pricing, Trading and Protection
+Paper ID: 5fa026af0a164e305976cc784afe3f181a6f5283, Count: 1, Title: Online Task Assignment for Crowdsensing in Predictable Mobile Social Networks
+Paper ID: 733351d5e823fa2718c29a35a561ffc27814d53e, Count: 1, Title: MELODY: A Long-Term Dynamic Quality-Aware Incentive Mechanism for Crowdsourcing
+Paper ID: 67ee25b97695947d411440cab197db1719add4f5, Count: 1, Title: Buyer seller watermarking protocols issues and challenges - A survey
+Paper ID: 17d46a5fc7919294b6952d073a068e2c93861d08, Count: 1, Title: A Verifiable and Secret Buyer–Seller Watermarking Protocol
+Paper ID: f37e1b62a767a307c046404ca96bc140b3e68cb5, Count: 1, Title: GloVe: Global Vectors for Word Representation
+Paper ID: f3de86aeb442216a8391befcacb49e58b478f512, Count: 1, Title: Distributed Representations of Sentences and Documents
+Paper ID: eddfd14b7be852ebbc836037de22a2ab7cfca46e, Count: 1, Title: A Privacy-Preserving Buyer–Seller Watermarking Protocol Based on Priced Oblivious Transfer
+Paper ID: 542fbbca4262ee7aa143083d5d1132122c4e7ab7, Count: 1, Title: Optimal Auction Design
+Paper ID: 8a9e8a8fea6ed4ac84634fb2184d1488e3d67b8a, Count: 1, Title: SDTE: A Secure Blockchain-Based Data Trading Ecosystem
+Paper ID: ee1b2191e6de66a8c45d3cbafda96a7262780b61, Count: 1, Title: Bitcoin: A Peer-to-Peer Electronic Cash System
+Paper ID: b4597d93cbc9b56348b7c36f53afef8f06dbcf81, Count: 1, Title: Multiple color-image fusion and watermarking based on optical interference and wavelet transform
+Paper ID: c487bb3e0b3d6d9c1b9e5898db8dbc7aeab3ff08, Count: 1, Title: A robust and synthesized-unseen watermarking for the DRM of DIBR-based 3D video
+Paper ID: 84f0257f6cd94ab4f4bcd9cfed6db2e05d34876d, Count: 1, Title: Self-embedding fragile watermarking based on reference-data interleaving and adaptive selection of embedding mode
+Paper ID: e93c7b333399a032d1136587220c0aeea060e07e, Count: 1, Title: Blind optimum detector for robust image watermarking in nonsubsampled shearlet Domain
+Paper ID: 115d770f31eb5727e4476b1b32a4fe15870c283d, Count: 1, Title: Improving digital image watermarking by means of optimal channel selection
+Paper ID: 3003e9180a97ea581f8cb79f086264d0d9609b4f, Count: 1, Title: Geometrically resilient color image zero-watermarking algorithm based on quaternion Exponent moments
+Paper ID: 7f09b72f89851afeaa3f67a1dd4618eb6d7dd8c8, Count: 1, Title: High-capacity multiple regions of interest watermarking for medical images
+Paper ID: 5415f685cd8af6a104c30e5a9501908be9104eba, Count: 1, Title: A robust DIBR 3D image watermarking algorithm based on histogram shape
+Paper ID: d60b9de09858792a464e0e7a351490486ca9887f, Count: 1, Title: Robust blind image watermarking by modulating the mean of partly sign-altered DCT coefficients guided by human visual perception
+Paper ID: d44b051c2857e278742a010ad9db9f6e79c263aa, Count: 1, Title: Robust watermarking scheme for color image based on quaternion-type moment invariants and visual cryptography
+Paper ID: d95506e219913a267a29f38381b95c1839ce6c62, Count: 1, Title: A new detector for contourlet domain multiplicative image watermarking using Bessel K form distribution
+Paper ID: 1d56a5e5408c1b914e5ba33a0374d2fed45c4892, Count: 1, Title: A crypto-watermarking system for ensuring reliability control and traceability of medical images
+Paper ID: a055ed17bad0cf71bf392f9b2e5571df53c13d30, Count: 1, Title: A reversible image authentication scheme based on fragile watermarking in discrete wavelet transform domain
+Paper ID: 33264391d71b1c02bb963422cf695bc453f1b69f, Count: 1, Title: A new approach to fully-reversible watermarking in medical imaging with breakthrough visibility parameters
+Paper ID: 9668786bdad6b318a9932bfef838d589e8d52b91, Count: 1, Title: Digital images authentication scheme based on bimodal biometric watermarking in an independent domain
+Paper ID: d7d254d7fb8098502cfe4f532a6257ee7e700204, Count: 1, Title: Local quaternion PHT based robust color image watermarking algorithm
+Paper ID: eced3f3b04b183d2a88a9f8b5a66bd8e4abd816a, Count: 1, Title: Authentication and recovery algorithm for speech signal based on digital watermarking
+Paper ID: 4bacfcabf77c0447da26e0a90ae32a581d90db29, Count: 1, Title: Image Bit Depth Plane Digital Watermarking for Secured Classified Image Data Transmission
+Paper ID: 18d2fa5d76260315e72b2e0403a78db7492cba5d, Count: 1, Title: Robust watermarking algorithm for digital images using discrete wavelet and probabilistic neural network
+Paper ID: 66161074c09a116606b29b613dfa0db56a88aebe, Count: 1, Title: Image Watermarking Using 3-Level Discrete Wavelet Transform (DWT)
+Paper ID: 0eeb6601bc11e45dbe27ebb1145b2dedb1716c04, Count: 1, Title: Hardware implementation of a novel water marking algorithm based on phase congruency and singular value decomposition technique
+Paper ID: aab237e8239a913d43ca451f5bc99709c8ce75d3, Count: 1, Title: A practical design of digital watermarking for video streaming services
+Paper ID: 7b947bf60f98f2191bd6eb97da5d354002ffc5f4, Count: 1, Title: Digital Watermarking Algorithm using DWT Technique
+Paper ID: 1e57c20836b9539335aae42344ffd543938d581e, Count: 1, Title: Twelfth International Multi-Conference on Information Processing-2016 ( IMCIP-2016 ) Aggregation of Discrete Cosine Transform Digital Image Watermarking with Advanced Encryption Standard Technique
+Paper ID: 33b81d8f9cf88a1f62c128f3a93a1fa3ba38fc4d, Count: 1, Title: A New Technique to Digital Image Watermarking Using DWT for Real Time Applications
+Paper ID: 161f87c90056eff17fcc896165ecf0397837109a, Count: 1, Title: Multimedia tools and applications
+Paper ID: 5a01d80d192f06b38abfb3fbd6225a1aa319e28f, Count: 1, Title: A Dual-Chain Digital Copyright Registration and Transaction System Based on Blockchain Technology
+Paper ID: f1377be26c3915b51858f4ef067603bd46e14117, Count: 1, Title: Non-linear adaptive closed-loop control system for improved efficiency in IoT-blockchain management
+Paper ID: 86f6ee9ddf7688dd9c0df514c1680d28f5a19dfb, Count: 1, Title: An Overview of the Emerging Technology: Blockchain
+Paper ID: 85d191b722bf7e0724cb431d7bef69d1cad8b54a, Count: 1, Title: Digital rights management: Model, technology and application
+Paper ID: 85eb45c1c51993650c970cb8a9fdd988fc216b3a, Count: 1, Title: Sharing Linked Open Data over Peer-to-Peer Distributed File Systems: The Case of IPFS
+Paper ID: bfbce9ae7fd2828c7ca6ecbbe6c46ddc7d5e3e75, Count: 1, Title: Blockchain - A Financial Technology for Future Sustainable Development
+Paper ID: a39b361a622da9c6fc5c45ca507cdf8b88cc8f8c, Count: 1, Title: Blockchain's big deal [financial IT]
+Paper ID: bbff38c90b337d3018a9e5d5adb1901fee5c0e3a, Count: 1, Title: Hawk: The Blockchain Model of Cryptography and Privacy-Preserving Smart Contracts
+Paper ID: cb4c3f142acb4b15ee9e901732972c876c79f8d9, Count: 1, Title: Managing Intellectual Property in a Music Fruition Environment
+Paper ID: 9cc21c309ffa0ad841bf198fedbef4d5d2a4bfbc, Count: 1, Title: Prospect of the next-generation digital content industry: Three perspective approach to the user acceptance of the Realistic content technology
+Paper ID: 97fddbbfd681bce9eeb8e0a013353b4d5b2ba0db, Count: 1, Title: Blockchain: Blueprint for a New Economy
+Paper ID: 1689f401f9cd18c8fd033d99d1e2ce99b71e6047, Count: 1, Title: The Byzantine Generals Problem
+Paper ID: 0db38d32069f3341d34c35085dc009a85ba13c13, Count: 1, Title: PPCoin: Peer-to-Peer Crypto-Currency with Proof-of-Stake
+Paper ID: d6272dbc01b453b44af8608a5d2f18281027812a, Count: 1, Title: Towards Private, Robust, and Verifiable Crowdsensing Systems via Public Blockchains
+Paper ID: f7b69b8babfa607f2e8b0371f24cb720a7a827d6, Count: 1, Title: Blockchain for Large-Scale Internet of Things Data Storage and Protection
+Paper ID: 4ce13dcc8e5497755bbedcea39c4b9b7e14fe64f, Count: 1, Title: The internet of things
+Paper ID: 44dacdec625e31df66736a385e7001ef33756c5f, Count: 1, Title: Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol
+Paper ID: 9d37ccca3d5d56f701a8bbe9570e5a8775239741, Count: 1, Title: REM: Resource-Efficient Mining for Blockchains
+Paper ID: de09c78d81fed318cc8beb4baed1aa858d65d252, Count: 1, Title: A Bitcoin Based Incentive Mechanism for Distributed P2P Applications
+Paper ID: 801b8e7686b1820585a5e0edfd30a17f7126b60a, Count: 1, Title: IoT Applications on Secure Smart Shopping System
+Paper ID: d4f60db416f5970b04bcc43d4086951407933f84, Count: 1, Title: Short Paper: Service-Oriented Sharding for Blockchains
+Paper ID: 5e36ac3604b1291d872057511404fc6843d2d491, Count: 1, Title: On the Security and Scalability of Bitcoin's Blockchain
+Paper ID: fb666ba781ecd7d93e6ffa62c14b19f9cda764bf, Count: 1, Title: A Privacy Preserving Communication Protocol for IoT Applications in Smart Homes
+Paper ID: b8cfb0f46fca40e3e8782804dfdc8d1d9bc4665b, Count: 1, Title: Mobile-Edge Computing and the Internet of Things for Consumers: Extending cloud computing and services to the edge of the network
+Paper ID: 15ed54dcf10510c077ba76581fd28c69f2c0968f, Count: 1, Title: Privacy in Bitcoin Transactions: New Challenges from Blockchain Scalability Solutions
+Paper ID: 07ebd46dc1f020cfbad17c9285ba372c040695d5, Count: 1, Title: Tendermint: Byzantine Fault Tolerance in the Age of Blockchains
+Paper ID: e3a442aa24e5df7e6b2a25e21e75c4c325f9eedf, Count: 1, Title: Edge Computing: Vision and Challenges
+Paper ID: cb35bfb81f1829ce5c3d384008108157003f7d43, Count: 1, Title: The Promise of Edge Computing
+Paper ID: c48e0bd0f36c25ab83befbc7b7da369b75fd25f5, Count: 1, Title: Big Data-Survey
+Paper ID: 1b7283e9fed6fa6fec634b71bafee0064f7f240f, Count: 1, Title: Mobile Edge Computing, Fog et al.: A Survey and Analysis of Security Threats and Challenges
+Paper ID: efb1a85cf540fd4f901a78100a2e450d484aebac, Count: 1, Title: The Quest for Scalable Blockchain Fabric: Proof-of-Work vs. BFT Replication
+Paper ID: d28dd2fe450d50a414e83461bfa3449750a573d0, Count: 1, Title: Bitcoin-NG: A Scalable Blockchain Protocol
+Paper ID: fe7c1437c4da50f9fd9cfadc8a1ac6c59ea3ffe5, Count: 1, Title: Proofs of Space
+Paper ID: 428940fa3f81f8d415c26661de797a77d8af4d43, Count: 1, Title: The Fog computing paradigm: Scenarios and security issues
+Paper ID: d080fb7c7cd1bf65be60ec9cd47dd44fca0abb66, Count: 1, Title: The internet of things: a survey
+Paper ID: a24d373bd33788640e95c117ebd5d78c88e8ce92, Count: 1, Title: An IoT-Oriented Data Storage Framework in Cloud Computing Platform
+Paper ID: b8bdf7c65931129a85300c9740ca696ea5460e3d, Count: 1, Title: Internet of Things: Converging Technologies for Smart Environments and Integrated Ecosystems
+Paper ID: ba25ab2d20164213184738e542d5500126919679, Count: 1, Title: An efficient certificateless cryptography scheme without pairing
+Paper ID: 4b4db3df66f98ad764faefc3cd6ee0b7573d90a9, Count: 1, Title: A Storage Solution for Massive IoT Data Based on NoSQL
+Paper ID: 7893ab487f426b801ec55e50482eb54e375a34e4, Count: 1, Title: Improving Multilingual Semantic Interoperation in Cross-Organizational Enterprise Systems Through Concept Disambiguation
+Paper ID: 8ce4c0ee315d86f32ec7354ccdf8d8996e8ee270, Count: 1, Title: The Hadoop Distributed File System
+Paper ID: 919209c7c3a8dd7547c05cc8cf22ad5b53aa11a7, Count: 1, Title: Achieving Secure, Scalable, and Fine-grained Data Access Control in Cloud Computing
+Paper ID: 8e2b0fb4f49370195d2b48587dd54b0e2c8010fe, Count: 1, Title: 無憑證公開金鑰密碼系統; Certificateless Public Key Cryptography
+Paper ID: 0e03fa93101c79fad6b6d33828196f6d0b6d10f4, Count: 1, Title: Security-Mediated Certificateless Cryptography
+Paper ID: 88b76db4fc1e8de96c419d8d318fafb1591eb51d, Count: 1, Title: On the Security of Certificateless Signature Schemes from Asiacrypt 2003
+Paper ID: e164d50a3913ce38d0562980945e4fc908db05ea, Count: 1, Title: Fuzzy Identity-Based Encryption
+Paper ID: e1561969e537194911b929410804a40614bf300a, Count: 1, Title: Koorde: A Simple Degree-Optimal Distributed Hash Table
+Paper ID: a7a9f305ebc4d5e9d128b0505fed18e62a393f46, Count: 1, Title: Identity-Based Encryption from the Weil Pairing
+Paper ID: 4402db329328465eb118cdd750a0d3af9af21625, Count: 1, Title: SP 800-32. Introduction to Public Key Technology and the Federal PKI Infrastructure
+Paper ID: 7aa615c33075e89bc6bc0e258f7f70ba83475df7, Count: 1, Title: Identity-Based Encryption
+Paper ID: eca334591d85eab2ddf9d7b567a8363cb9b11f24, Count: 1, Title: The Emergence of Edge Computing
+Paper ID: b3578884b80376bcf792b993c9769761f32c41bf, Count: 1, Title: New Kids on the Blockchain: How Bitcoin's Technology Could Reinvent the Stock Market
+Paper ID: 8b9b7e1fb101a899b0309ec508ac5912787cc12d, Count: 1, Title: Securing Bitcoin wallets via a new DSA / ECDSA threshold signature scheme
+Paper ID: 348b131254a0a84083e12a4abd092114b2662bc4, Count: 1, Title: Enabling Blockchain Innovations with Pegged Sidechains
+Paper ID: 8bbcb2075ee59792dc55654543b7b27e16f44b4b, Count: 1, Title: An efficient and robust certificateless short signature scheme
+Paper ID: 23a1cec389cf82955a8d3046c5aa1bf25f6f6584, Count: 1, Title: Blockchain in Internet of Things: a Systematic Literature Review
+Paper ID: 9918c21706367dd01617226d99d7c95a999b4a86, Count: 1, Title: A new coronavirus associated with human respiratory disease in China
+Paper ID: 145709e8c6b5a84c1b2164a4510a13a511099de4, Count: 1, Title: Blockchain-Based Mobile Crowd Sensing in Industrial Systems
+Paper ID: e0bc89f5776804bc2be27f1945f900d1ac8f1e7f, Count: 1, Title: An Overview on Smart Contracts: Challenges, Advances and Platforms
+Paper ID: 38a5cdbbc2152a6c1cf2259bb1868d9d2622b47e, Count: 1, Title: Big Data Analytics for Large-scale Wireless Networks
+Paper ID: 68f31a9e57fe5341d6e0e816f603a527f9e52883, Count: 1, Title: Distributed Uplink Offloading for IoT in 5G Heterogeneous Networks Under Private Information Constraints
+Paper ID: 0cbdb5e412fd72834e55374d933bf7873ac8b921, Count: 1, Title: LoRa-Key: Secure Key Generation System for LoRa-Based Network
+Paper ID: 3bc9bb1f2218dcbd15c3b7cdfcb43077a3f30779, Count: 1, Title: Big data analytics for manufacturing internet of things: opportunities, challenges and enabling technologies
+Paper ID: bc11a01d61b5c217b90a2d575f8d07a42984c099, Count: 1, Title: Joint Load Balancing and Offloading in Vehicular Edge Computing and Networks
+Paper ID: a7c9d4249031dfd7a014844f230048a171fd20ec, Count: 1, Title: Blockchain for Secure and Efficient Data Sharing in Vehicular Edge Computing and Networks
+Paper ID: bfe4586b650f39b4db7890a827fe35c108aa1f97, Count: 1, Title: Artificial Intelligence Empowered Edge Computing and Caching for Internet of Vehicles
+Paper ID: cae22ac04006c776a9110802f4b14567e9794d54, Count: 1, Title: Blockchain and Deep Reinforcement Learning Empowered Intelligent 5G Beyond
+Paper ID: 2a902fc7630b77daa2873f72b9cc6c3619677a10, Count: 1, Title: Blockchain-Based Decentralized Trust Management in Vehicular Networks
+Paper ID: e0dd6ac8516de0e072f20604a988f6deab9568d6, Count: 1, Title: A comparative study of LPWAN technologies for large-scale IoT deployment
+Paper ID: 88fcd8252670235f7c0439209ce7606669ac2d49, Count: 1, Title: A Blockchain and AutoML Approach for Open and Automated Customer Service
+Paper ID: 3b67166334a2434ba3f48b42da03fa18230d4663, Count: 1, Title: Food Safety Traceability System Based on Blockchain and EPCIS
+Paper ID: 8a535728e15280ab4c6baf08d73fa3ea7d56896e, Count: 1, Title: Computation Resource Allocation and Task Assignment Optimization in Vehicular Fog Computing: A Contract-Matching Approach
+Paper ID: 3b550924863bea6dd670975cabb47d5749409538, Count: 1, Title: A Blockchain-Based Solution for Enhancing Security and Privacy in Smart Factory
+Paper ID: 27d6b20365e3b9fb9120f5e3e2b94b8483f2c1c8, Count: 1, Title: UAV Communications for 5G and Beyond: Recent Advances and Future Trends
+Paper ID: 3336ed0cfa97766ea2fc9f47fafcaa084a9e6a20, Count: 1, Title: RepChain: A Reputation-Based Secure, Fast, and High Incentive Blockchain System via Sharding
+Paper ID: a4b2837509af0c33ac182a5b84bd47e2e38a61f7, Count: 1, Title: Blockchain-Based Mobile Edge Computing Framework for Secure Therapy Applications
+Paper ID: b49b94d132cf389d251cc90ebe1e86d6c8760d1e, Count: 1, Title: On blockchain and its integration with IoT. Challenges and opportunities
+Paper ID: e03ca8a556f20d453ef80301a6da654a6d1c69e0, Count: 1, Title: Clustering Blockchain Data
+Paper ID: 10adaef61d5f2e53662817aff27e974549a4ca55, Count: 1, Title: Joint Computation Offloading and User Association in Multi-Task Mobile Edge Computing
+Paper ID: 305edd92f237f8e0c583a809504dcec7e204d632, Count: 1, Title: Blockchain challenges and opportunities: a survey
+Paper ID: c972800be0371d6931030777df3d9548d6906485, Count: 1, Title: Securing Internet of Things with Software Defined Networking
+Paper ID: 9233ab0eaa5fc22a00f2fdb6d7d2d0017637b50b, Count: 1, Title: Computation Offloading and Content Caching in Wireless Blockchain Networks With Mobile Edge Computing
+Paper ID: 16775e1f1a8d8fe90221bf9f8eadbc1ecb822d36, Count: 1, Title: SABRE: Protecting Bitcoin against Routing Attacks
+Paper ID: d94b8f1171c9edfa01c0c82b552ebd26e63312da, Count: 1, Title: The acceptance of blockchain technology in meat traceability and transparency
+Paper ID: 85c150aaa9a449a2ce4b469e015bae3733b475e4, Count: 1, Title: Consortium Blockchain for Secure Energy Trading in Industrial Internet of Things
+Paper ID: 383057f972b11b99cbc8c0d3e6c47170e9d95c1c, Count: 1, Title: Blockchain and IoT Integration: A Systematic Survey
+Paper ID: ae8673e9fa500524a9837d8c89e6156089c6c929, Count: 1, Title: Blockchain for Business Applications: A Systematic Literature Review
+Paper ID: 90dd3108633ba6964f631ae9029f952d2ff26e19, Count: 1, Title: A Decentralizing Attribute-Based Signature for Healthcare Blockchain
+Paper ID: c411b0451223145f35434cc33d2129461b00a3fc, Count: 1, Title: A Business-Oriented Schema for Blockchain Network Operation
+Paper ID: 9473ed881fbfef009112d4e95f51bab9292812e5, Count: 1, Title: MEETS: Maximal Energy Efficient Task Scheduling in Homogeneous Fog Networks
+Paper ID: 6d661299a8207a4bff536494cec201acee3c6c1c, Count: 1, Title: Healthcare Blockchain System Using Smart Contracts for Secure Automated Remote Patient Monitoring
+Paper ID: d21221b718b28c789f504aeea58640a777288a96, Count: 1, Title: Blockchain-Enabled Security in Electric Vehicles Cloud and Edge Computing
+Paper ID: 358498a564cbc962c7a7d826fbeb2f8c026b0631, Count: 1, Title: Peer-to-Peer energy trading in a Microgrid
+Paper ID: 02458904f9bd718bd8c6a1a36e9847ad83b0410b, Count: 1, Title: A Review on the Use of Blockchain for the Internet of Things
+Paper ID: 04373bf1bdded66ef74ec0ab823e66b81e66d394, Count: 1, Title: Blockchain and Big Data to Transform the Healthcare
+Paper ID: f014f67a3c90a68453470a1050fe3d9b35996ac1, Count: 1, Title: Methodological Approach to the Definition of a Blockchain System for the Food Industry Supply Chain Traceability
+Paper ID: d0328c1e0dbe3a318512b1d55692de6533a78a83, Count: 1, Title: Virtualization for Distributed Ledger Technology (vDLT)
+Paper ID: 0c5653210f0a6d9a3680521a45b9ee01e9ae8342, Count: 1, Title: Securing configuration management and migration of virtual network functions using blockchain
+Paper ID: 7829256595b91a598bb6531fa243d7c49e2a7c08, Count: 1, Title: Trusted 5G Vehicular Networks: Blockchains and Content-Centric Networking
+Paper ID: 39e12084c1501d6ca15bf0ee49bbef878ef59135, Count: 1, Title: PrivTrie: Effective Frequent Term Discovery under Local Differential Privacy
+Paper ID: e9d0756d45096afacbdd7e288dc79b22438bdcf2, Count: 1, Title: Air-Ground Integrated Mobile Edge Networks: Architecture, Challenges, and Opportunities
+Paper ID: 7a41e1ed9fb0c1d0550b5bab6f47666cc7f82855, Count: 1, Title: Multitier Fog Computing With Large-Scale IoT Data Analytics for Smart Cities
+Paper ID: 677d276996ba7a84b9078e9c413cbb1d8820a15e, Count: 1, Title: 1 Blockchain's roles in meeting key supply chain management objectives
+Paper ID: c078bf5f00a1bfb8df6bda9bc7fee6bfea6f5cbb, Count: 1, Title: Blockchain: A Panacea for Healthcare Cloud-Based Data Security and Privacy?
+Paper ID: 69f80d1273e2199e3653301d3b89405dfd6c0a63, Count: 1, Title: Network Slicing and Softwarization: A Survey on Principles, Enabling Technologies, and Solutions
+Paper ID: b4cdbcb06db9fae8cf82c02d92dd4eb92ba9158c, Count: 1, Title: Analysis of the XRP Ledger Consensus Protocol
+Paper ID: e7f84b1d7f8378ffaadbf85c33bacc8bcd9e28dd, Count: 1, Title: Mobile Edge Computing: A Survey
+Paper ID: 98d9e17916515b6713405329546fa7e97f1b3036, Count: 1, Title: Cooperative Jamming for Physical Layer Security Enhancement in Internet of Things
+Paper ID: ff6ae91ae0e500a1e91f368fca33d2b59aedbe55, Count: 1, Title: Edge Computing Gateway of the Industrial Internet of Things Using Multiple Collaborative Microcontrollers
+Paper ID: 1041640fdfcd0c3aebdf36881c9585206b5a0faa, Count: 1, Title: Secure Blockchains for Dynamic Spectrum Access: A Decentralized Database in Moving Cognitive Radio Networks Enhances Security and User Access
+Paper ID: 99ad2e43d79102d098c73d128ab10c6640b6852e, Count: 1, Title: How to Make a Digital Currency on a Blockchain Stable
+Paper ID: 59e0611465824e84fab94b2bd332e8aec97a3d59, Count: 1, Title: MOF-BC: A Memory Optimized and Flexible BlockChain for Large Scale Networks
+Paper ID: 88385ddf9330eb973f0550770f28b6c8fe4d213e, Count: 1, Title: Ambient Backscatter Assisted Wireless Powered Communications
+Paper ID: fdcde650ef859da8b51a465a977d22bf62ad57f6, Count: 1, Title: Why Do Businesses Go Crypto? An Empirical Analysis of Initial Coin Offerings
+Paper ID: 2a2dea1ce4edf9db42aa6ee01366dc30b9ece3a6, Count: 1, Title: Dynamics of Blockchain Implementation - A Case Study from the Energy Sector
+Paper ID: 3e921b2a61649b70209bb93aeee73645beeec6c4, Count: 1, Title: Blockchain Based Decentralized Management of Demand Response Programs in Smart Energy Grids
+Paper ID: 33ce4b25c7d7a18a464f9f4c4290fe4b3c65378c, Count: 1, Title: Blockchain application in food supply information security
+Paper ID: 461d523f9ba942c7474aef332412fe7b53c731be, Count: 1, Title: When Mobile Blockchain Meets Edge Computing
+Paper ID: 7d49d03e62907c45ea3f84cdc626dcbd75dc03f0, Count: 1, Title: Adaptable Blockchain-Based Systems: A Case Study for Product Traceability
+Paper ID: b03be9704f046b42734cb18c549f6e98e29b6c93, Count: 1, Title: Blockchain-based efficient privacy preserving and data sharing scheme of content-centric network in 5G
+Paper ID: 07526bceaed798c12f67daf0818992052b39f8c9, Count: 1, Title: Tracking Bitcoin Users Activity Using Community Detection on a Network of Weak Signals
+Paper ID: 8319bff063be53e6672ad31c53ac3680d2871e30, Count: 1, Title: Algorand: Scaling Byzantine Agreements for Cryptocurrencies
+Paper ID: fa33053af899e6ca0da59ce04802c5437e43ee5a, Count: 1, Title: A blockchain future for internet of things security: a position paper
+Paper ID: e64590b78434a38b931cf86d915335850fb67f2a, Count: 1, Title: Blockchain-based protocol of autonomous business activity for multi-agent systems consisting of UAVs
+Paper ID: 8f02c207c7e13b8a2781a6a9634b3be9a2df17aa, Count: 1, Title: IoT devices and applications based on LoRa/LoRaWAN
+Paper ID: c86bf907b449379b39e6f4fe7286a106db19f743, Count: 1, Title: Analysis of Blockchain Use Cases in the Citizens Broadband Radio Service Spectrum Sharing Concept
+Paper ID: f1b9e556da35d427df036ae07b3ae6cb6462f42f, Count: 1, Title: Narrow Band Internet of Things
+Paper ID: 76bd712e4908a42c5514c50427a168d6d7952c70, Count: 1, Title: DistBlockNet: A Distributed Blockchains-Based Secure SDN Architecture for IoT Networks
+Paper ID: 5bbd5bfa99b4554729ae7bbf5de0388f28ed1151, Count: 1, Title: Software-Defined Networking for Internet of Things: A Survey
+Paper ID: ca4c0ab7304ebbbb052887332d80dbe673ed4b7c, Count: 1, Title: A Survey on the Security of Blockchain Systems
+Paper ID: 82d2b9d09cc339fdeac05abfb8a31f9c6eace948, Count: 1, Title: Untangling Blockchain: A Data Processing View of Blockchain Systems
+Paper ID: f163d3971dd7abfe39bdd143a67910543ffdead2, Count: 1, Title: Life Cycle of Smart Contracts in Blockchain Ecosystems
+Paper ID: 1973f0f8815ec63abd21b0e191846efa2041125a, Count: 1, Title: A Survey on Security and Privacy Issues of Bitcoin
+Paper ID: 08442a70a8377e33772695dfec96059740f7bdd0, Count: 1, Title: Next generation of radio spectrum management: Licensed shared access for 5G
+Paper ID: 81bfea080e833fd0046b1e9b879a19429c1d08bf, Count: 1, Title: Enabling Localized Peer-to-Peer Electricity Trading Among Plug-in Hybrid Electric Vehicles Using Consortium Blockchains
+Paper ID: 6ae8e0ea13abfaaeed3fb4c720716e0e89667094, Count: 1, Title: Manufacturing Analytics and Industrial Internet of Things
+Paper ID: 84eae1234a6a9d64b6be73756ef9abafd31a83bf, Count: 1, Title: ProvChain: A Blockchain-Based Data Provenance Architecture in Cloud Environment with Enhanced Privacy and Availability
+Paper ID: ffa7b79338fb948c8cd0fa3621172106546023fa, Count: 1, Title: An Empirical Analysis of Traceability in the Monero Blockchain
+Paper ID: 0499ec3b1af9a1bed50c58cc953f5c6830ad8264, Count: 1, Title: A Taxonomy of Blockchain-Based Systems for Architecture Design
+Paper ID: cd3d4459ff0ff590a3e3258b0f774d6963cd4c90, Count: 1, Title: A Survey on Internet of Things: Architecture, Enabling Technologies, Security and Privacy, and Applications
+Paper ID: 28fe6a3fab2f2097a6f9aac5ae9799577badf883, Count: 1, Title: Blockchain for IoT security and privacy: The case study of a smart home
+Paper ID: 97b4375a71e98fb5b4628b3cf9bf80c4e006e891, Count: 1, Title: BLOCKBENCH: A Framework for Analyzing Private Blockchains
+Paper ID: a2b8ca005257af5a254b1a94340bd52f2cbf4811, Count: 1, Title: Catalyzing Cloud-Fog Interoperation in 5G Wireless Networks: An SDN Approach
+Paper ID: cee09a03be2917fb5ef5d9d4f7354a330ad3f65d, Count: 1, Title: Collaborative Mobile Edge Computing in 5G Networks: New Paradigms, Scenarios, and Challenges
+Paper ID: ced26600307ceedc2de9b5936044de38264b2344, Count: 1, Title: Detecting and tracking vehicles in traffic by unmanned aerial vehicles
+Paper ID: 53730790a77a31794a72b334a14f4691a16b87ba, Count: 1, Title: A Decentralised Sharing App running a Smart Contract on the Ethereum Blockchain
+Paper ID: 4ba1d784e6aac966f535e3fa1d0dd5a3a72f60df, Count: 1, Title: Evaluation of Logic-Based Smart Contracts for Blockchain Systems
+Paper ID: 02c546a8dc729c98c24244e12a56ae2504374a82, Count: 1, Title: Cloud Manufacturing: Security, Privacy, and Forensic Concerns
+Paper ID: be635255fd0167a5b8f829cc321bded3a5dce735, Count: 1, Title: The Evolution of the Bitcoin Economy: Extracting and Analyzing the Network of Payment Relationships
+Paper ID: 24cdeb7d7421012c2fdd362b8e2816c105b7071f, Count: 1, Title: An agri-food supply chain traceability system for China based on RFID & blockchain technology
+Paper ID: 70ced2546edbdaf84d29b57331d229cfdf07b7b4, Count: 1, Title: An Online Identity and Smart Contract Management System
+Paper ID: 07db4d7b141081644b9cbb3e6d1f34c1bc80db24, Count: 1, Title: Hijacking Bitcoin: Routing Attacks on Cryptocurrencies
+Paper ID: bd35084c4b250af252e8b29900d4192c6e66dc5f, Count: 1, Title: Blockchains and Online Dispute Resolution: Smart Contracts as an Alternative to Enforcement
+Paper ID: f572bcaa97e36d79e0cd01fb18dadb2f58eebebd, Count: 1, Title: The IoT electric business model: Using blockchain technology for the internet of things
+Paper ID: e022e57ec1877de91d9f129d31bbae4053d7983e, Count: 1, Title: Wireless communications with unmanned aerial vehicles: opportunities and challenges
+Paper ID: 53f6601aaf7f61429b644de2d2d17aa25f662cb0, Count: 1, Title: Mobile big data fault-tolerant processing for ehealth networks
+Paper ID: cac0bb099915481f7bc0dd55c02d358c0179d503, Count: 1, Title: An Analytical Study on Eavesdropping Attacks in Wireless Nets of Things
+Paper ID: 5a279e92a6269eab4d73c5ebb03b86cfe6e6a5bd, Count: 1, Title: Cloud Computing for Cloud Manufacturing: Benefits and Limitations
+Paper ID: e46b1aca220cc11583b99ca1e612a85d55f7195e, Count: 1, Title: An IoT electric business model based on the protocol of bitcoin
+Paper ID: 148952fb3da9a369ca506d6a1d692e81494b4969, Count: 1, Title: Inclusive Block Chain Protocols
+Paper ID: 42cd362089c8b2ae6b09a9dc532bec7e7f44d754, Count: 1, Title: Survey of Security and Privacy Issues of Internet of Things
+Paper ID: 9c50d15fdaca21569d46335fdd0108012a00e2a0, Count: 1, Title: On the features and challenges of security and privacy in distributed internet of things
+Paper ID: fe8854b0871156e6bf47f26ed8175214ca29944e, Count: 1, Title: WirelessHART Versus ISA100.11a: The Format War Hits the Factory Floor
+Paper ID: 681c8ee05056447b010cef9e8ff9ec9642e7da4d, Count: 1, Title: Smart Manufacturing
+Paper ID: 3d267bbcce5a599ac9cc42964fefb40e7b49cbb1, Count: 1, Title: Applications of Blockchains in the Internet of Things: A Comprehensive Survey
+Paper ID: 44ee1bf827396f8a08f54be78e1b868c11de23bc, Count: 1, Title: Toward an ontology-driven blockchain design for supply-chain provenance
+Paper ID: caccd12f92967eee019bea8c45e34bda62a1c2d8, Count: 1, Title: Security and Privacy for Cloud-Based IoT: Challenges
+Paper ID: 9220ae85932c8ba41be666b1a005dbcc546a5de0, Count: 1, Title: The Hyperledger Project
+Paper ID: 94396f4440395b9005b24cea67bb91319f1fd665, Count: 1, Title: The Format War Hits the Factory Floor
+Paper ID: 59cbbb6ccd07dc312d3d0c218d384f004396c370, Count: 1, Title: Fast Secure Two-Party ECDSA Signing
+Paper ID: d492e70db0d350826e48b67ad5e97c80ad2e05b9, Count: 1, Title: Escrow Protocols for Cryptocurrencies: How to Buy Physical Goods Using Bitcoin
+Paper ID: f4f72663a768a2d1a196b8f222804e6cb8098f78, Count: 1, Title: An Efficient Lattice-Based Multisignature Scheme with Applications to Bitcoins
+Paper ID: 0b7467cfb630587d17f92553aa6aa14370618e5d, Count: 1, Title: Optimal Security Proofs for Signatures from Identification Schemes
+Paper ID: ad09a755a1cbaed05cb1ab47d19ce1628c755449, Count: 1, Title: Deterministic Usage of the Digital Signature Algorithm (DSA) and Elliptic Curve Digital Signature Algorithm (ECDSA)
+Paper ID: 7e8b35efee6c421b695e9d4d422774a7b858decb, Count: 1, Title: On the Exact Security of Schnorr-Type Signatures in the Random Oracle Model
+Paper ID: 218b4099a98a7c015ff5d9ad15af61de53be8fd6, Count: 1, Title: High-speed high-security signatures
+Paper ID: 5274493aa1850b1b5ce1f5d94f097844de74ae27, Count: 1, Title: Efficient discrete logarithm based multi-signature scheme in the plain public key model
+Paper ID: 425871f3bb6992717e5355bee6be99d9a1f92dcd, Count: 1, Title: Multisignatures secure under the discrete logarithm assumption and a generalized forking lemma
+Paper ID: 0fcf13f5a9ef5b1d9d8c6cb719fc1b902795f852, Count: 1, Title: Improved Bounds on Security Reductions for Discrete Log Based Signatures
+Paper ID: ad2cae2373a75858a649ce86994e846909b33ff5, Count: 1, Title: Unrestricted Aggregate Signatures
+Paper ID: ff246612ad8665b8a1e65dc975b4dab0a1ed44e0, Count: 1, Title: Multi-signatures in the plain public-Key model and a general forking lemma
+Paper ID: 6fa1b0ecf7091912e69bee68b36be567833a9aee, Count: 1, Title: Sequential Aggregate Signatures and Multisignatures Without Random Oracles
+Paper ID: c44958170182ce9541412c79e130d7d0bbb95984, Count: 1, Title: Discrete-Log-Based Signatures May Not Be Equivalent to Discrete Log
+Paper ID: 3381670ce0eaca8ca85647c86f5365afa3408352, Count: 1, Title: Sequential Aggregate Signatures from Trapdoor Permutations
+Paper ID: 7f93af470a8a92293db7c6fb582a5cc6300338b8, Count: 1, Title: The One-More-RSA-Inversion Problems and the Security of Chaum's Blind Signature Scheme 
+
+
+Paper ID: dab56166e49905226ded911a135f239f27de97bc, Count: 1, Title: Aggregate and Verifiably Encrypted Signatures from Bilinear Maps
+Paper ID: 495674d2e9de951263b0e06143b9a71932e1442e, Count: 1, Title: GQ and Schnorr Identification Schemes: Proofs of Security against Impersonation under Active and Concurrent Attacks
+Paper ID: b764477d1394f0d1f60f304ad036e85646369e4c, Count: 1, Title: Accountable-subgroup multisignatures: extended abstract
+Paper ID: 255a517a5d527fa10d22c5704a3f47b138f66686, Count: 1, Title: Two-party generation of DSA signatures
+Paper ID: 8eb9ed1e51888915ebd7d60ae90c3483561da5b4, Count: 1, Title: Multi-Signature Schemes Secure against Active Insider Attacks (Special Section on Cryptography and Information Security)
+Paper ID: 3f4d1dbb2c5f25e1f9eb1ed50c396cf5ff33da53, Count: 1, Title: On the Risk of Disruption in Several Multiparty Signature Schemes
+Paper ID: 4d55e3c787fa3340e7729368b4b069198d364d7f, Count: 1, Title: Weakness in Some Threshold Cryptosystems
+Paper ID: ed0ead8132fe872f14368ad2a6ccdcea31bc456e, Count: 1, Title: Group-oriented (t, n) threshold digital signature scheme and digital multisignature
+Paper ID: d67407565657fb7e737539ee32cd3bb2107f50d3, Count: 1, Title: Threshold-Multisignature Schemes where Suspected Forgery Implies Traceability of Adversarial Shareholders
+Paper ID: b0998e06993499479cfbbf73aa5e3adb30f60fc3, Count: 1, Title: A Digital Multisignature Scheme Based on the Fiat-Shamir Scheme
+Paper ID: 5bcd990b11e068234c3a13b021f3266bb45a2964, Count: 1, Title: A Digital Signature Based on a Conventional Encryption Function
+Paper ID: 154938a12885ff30301129597ebe11dd153385bb, Count: 1, Title: Okamoto Beats Schnorr: On the Provable Security of Multi-Signatures
+Paper ID: 980d4a662ef6c5aefa56a86c2a825a15abca3d66, Count: 1, Title: On the Provable Security of Two-Round Multi-Signatures
+Paper ID: 3fa43bf3457c18e80d80f359a80397e0574ca2ed, Count: 1, Title: Multi-user Schnorr security, revisited
+Paper ID: 83f24fb8569a37bc493e1d29ec6d6f562fd8f697, Count: 1, Title: Security Arguments for Digital Signatures and Blind Signatures
+Paper ID: 6dd246b2fbd18ad1714830b599540757a655c518, Count: 1, Title: SEC X.2: Recommended Elliptic Curve Domain Parameters
+Paper ID: 2642738e9977c08d4085ce1c6530d63545383d30, Count: 1, Title: Efficient signature generation by smart cards
+Paper ID: 470db5a33afa46e383955c0342d8091627c7dcfc, Count: 1, Title: Aggregate and Veriﬁably Encrypted Signatures from Bilinear Maps ∗
+Paper ID: 6cdb1ffa44c250eef7feddbd50fdb26ac0e9ccda, Count: 1, Title: Efficient threshold signature, multisignature and blind signature schemes based on the Gap-Diffie-Hellman-Group signature scheme
+Paper ID: 6e9eb827c1d0690229fd8c8eae46016dc13220eb, Count: 1, Title: Accountable-Subgroup Multisignatures
+Paper ID: c6e22d9258d1672b22dd2867612ccff08a52bd33, Count: 1, Title: Meta-Multisignature schemes based on the discrete logarithm problem
+Paper ID: c15604ba023be65cb5a22c3be7828e9b800f5b14, Count: 1, Title: An Architecture That Enables Cross-Chain Interoperability for Next-Gen Blockchain Systems
+Paper ID: 19d363fb6676cf0a8afba0a1d7f0a4747b48f23e, Count: 1, Title: NFT Cross-Chain Transfer Method Under the Notary Group Scheme
+Paper ID: 95c1576deffbd2f9ebf147ccfd29215881ae150f, Count: 1, Title: Exploring Blockchains Interoperability: A Systematic Survey
+Paper ID: e7230fbf1832e68d9d29aa84f50f385241b3202c, Count: 1, Title: zkBridge: Trustless Cross-chain Bridges Made Practical
+Paper ID: b361a12c714b2d5cf8a6239ed37d01a332878952, Count: 1, Title: Universal Atomic Swaps: Secure Exchange of Coins Across All Blockchains
+Paper ID: f506f34ac558720999510f190b735cd2e14a3ee6, Count: 1, Title: The dApp economy: a new platform for distributed innovation?
+Paper ID: bce23bd85dd50dcd5b3b37a06cb598d6fc7a1836, Count: 1, Title: Privacy-Preserving Cross-Chain Payment Scheme for Blockchain-Enabled Energy Trading
+Paper ID: 738f414b87841b891dd4bafd296b1580b43303be, Count: 1, Title: SynergyChain: A Multichain-Based Data-Sharing Framework With Hierarchical Access Control
+Paper ID: cdd798d495180617844cccd0bf9e1b862bbc7ce0, Count: 1, Title: Verifiable Timed Signatures Made Practical
+Paper ID: 4e15cb31b8455d3ea9fe4b2d81a3647e7deb4eeb, Count: 1, Title: Enabling Cross-Chain Transactions: A Decentralized Cryptocurrency Exchange Protocol
+Paper ID: 5b1b3f4eb3625df3ee1cd7466dbe6ee709b1e233, Count: 1, Title: Cross-chain Transactions
+Paper ID: 00af1121fbe4c6436546cbb9922db992a7f4a5a0, Count: 1, Title: Fair and Decentralized Exchange of Digital Goods
+Paper ID: 82fb56a87ebd8e76ee471634e010a70e2933eb54, Count: 1, Title: Zendoo: a zk-SNARK Verifiable Cross-Chain Transfer Protocol Enabling Decoupled and Decentralized Sidechains
+Paper ID: 93d947b6d9c39f9e573ba524c03fd5a42c22119c, Count: 1, Title: Sidechain technologies in blockchain networks: An examination and state-of-the-art review
+Paper ID: b088f5fbf81459aa6a5c34f8a9cbf8f338fa8ba9, Count: 1, Title: Bifröst: a Modular Blockchain Interoperability API
+Paper ID: 3b785195703229aae0b70e222d8b5a3bfafc4561, Count: 1, Title: IoT Resource Access utilizing Blockchains and Trusted Execution Environments
+Paper ID: 687075cf28c66ef0538b8efb70a8ab878305e16e, Count: 1, Title: A Comprehensive Survey of Blockchain: From Theory to IoT Applications and Beyond
+Paper ID: 18fe87ae717b368432d2d55e9b94a096da05b0ac, Count: 1, Title: Cross-chain deals and adversarial commerce
+Paper ID: 46eb9b9ef336bccbceb8474a47907e098365763a, Count: 1, Title: Atomic commitment across blockchains
+Paper ID: 17cff826c2780dc747534ae5563853c4aaf4dac7, Count: 1, Title: XCLAIM: Trustless, Interoperable, Cryptocurrency-Backed Assets
+Paper ID: 5262c2247dd27154df0d798fc801c8e40e597f90, Count: 1, Title: On the specification and verification of atomic swap smart contracts
+Paper ID: d35c608fd66cabf26e01aef5bbcb2efe158e5ad1, Count: 1, Title: ReviewChain: Smart Contract Based Review System with Multi-Blockchain Gateway
+Paper ID: ed76b2bd4c5bbe375002fe36517cf5ff646fc028, Count: 1, Title: Atomic Cross-Chain Swaps
+Paper ID: 27da740771798d60c90881e72115d64dcb8f711c, Count: 1, Title: A Framework for Practical Universally Composable Zero-Knowledge Protocols
+Paper ID: 68e4e043bba43c1827bc51c84a909fbe47410771, Count: 1, Title: Time-lock Puzzles and Timed-release Crypto
+Paper ID: 9fef31bf419eb221fb65438ea94313b8c4514b07, Count: 1, Title: Bool Network: An Open, Distributed, Secure Cross-Chain Notary Platform
+Paper ID: 61d127ac600ddf76101ca8519449ab5d12d31596, Count: 1, Title: LightSwap: An Atomic Swap Does Not Require Timeouts At Both Blockchains
+Paper ID: 10a97a717f8e3521736f6ae5ff58faa2f4340681, Count: 1, Title: P2DEX: Privacy-Preserving Decentralized Cryptocurrency Exchange
+Paper ID: ea7008a4fd8c8ae0510cd9549855aef9b947f8ce, Count: 1, Title: Generalized Channels from Limited Blockchain Scripts and Adaptor Signatures
+Paper ID: 2663c9bb172e5f6e54e75edf0426d563cedbc668, Count: 1, Title: R-SWAP: Relay based atomic cross-chain swap protocol
+Paper ID: 6b8ef0bb719a23575978251dc048ef90a6e1fbd6, Count: 1, Title: Anonymous Multi-Hop Locks for Blockchain Scalability and Interoperability
+Paper ID: 60682144f3554174654248c4dd46db46e5b1cd37, Count: 1, Title: Non-interactive zero-knowledge and its applications
+Paper ID: ba95f01828a413106f14e295c1f0298935e4a8a4, Count: 1, Title: QB-IMD: A Secure Medical Data Processing System With Privacy Protection Based on Quantum Blockchain for IoMT
+Paper ID: 24706a064e8d753666bee1d644551333572b8f4f, Count: 1, Title: A Blockchain-Assisted Intelligent Edge Cooperation System for IoT Environments With Multi-Infrastructure Providers
+Paper ID: b79cc3ad63896d298b5c213513e993aaf8ef615b, Count: 1, Title: A Group Signature Scheme With Selective Linkability and Traceability for Blockchain-Based Data Sharing Systems in E-Health Services
+Paper ID: 19350cf008cd201eaf823d1335b35e2a00603867, Count: 1, Title: Incentive-Based Federated Learning for Digital-Twin-Driven Industrial Mobile Crowdsensing
+Paper ID: 33d27777a81e1d5a419aacafdcdeccb98af8b3d1, Count: 1, Title: A Real-Time P2P Bot Host Detection in a Large-Scale Network Using Statistical Network Traffic Features and Apache Spark Streaming Platform
+Paper ID: 984c4362784e3e10556125b212b6392f8da71dd4, Count: 1, Title: Music Streaming Using Blockchain - Blockics
+Paper ID: 4964886c336fcd65a229d8e85938aaf09bda48e6, Count: 1, Title: Privacy-Preserving Outsourced Task Scheduling in Mobile Crowdsourcing
+Paper ID: db2f55eec2414e71ef7394c7ce00dcf2c1703578, Count: 1, Title: Adaptive QoS-aware multipath congestion control for live streaming
+Paper ID: 962d09c7a0e1ef4545433dc1327161c02c711885, Count: 1, Title: Penny Wise and Pound Foolish: Quantifying the Risk of Unlimited Approval of ERC20 Tokens on Ethereum
+Paper ID: 306cba26620c6228ff6e9b286cce5347a843dfe2, Count: 1, Title: Live video streaming service with pay-as-you-use model on Ethereum Blockchain and InterPlanetary file system
+Paper ID: 721a271c976f953d9485cace07e2dd87f4655e96, Count: 1, Title: Discovering signals of platform failure risks from customer sentiment: the case of online P2P lending
+Paper ID: b037b6c576f2804b2c6cef860510a131bc2e4b82, Count: 1, Title: A Contemporary Survey on Live Video Streaming from a Computation-Driven Perspective
+Paper ID: cfa29274fe87fe0ec2ac85c3002ea4c93ab1e264, Count: 1, Title: Online platform construction of SOA architecture and streaming media technology under edge computing
+Paper ID: 2b1dec20bcdfe796969969292e71ad4072b43b44, Count: 1, Title: fybrrStream: A WebRTC based Efficient and Scalable P2P Live Streaming Platform
+Paper ID: 8f45a2cae25f7425a4715276862106ce1372018e, Count: 1, Title: ITrade: A Blockchain-based, Self-Sovereign, and Scalable Marketplace for IoT Data Streams
+Paper ID: b55046a042bd3e0ba6b263b715984f13ca9969d2, Count: 1, Title: Blockchain for Video Streaming: Opportunities, Challenges, and Open Issues
+Paper ID: 53743cb8438e0084762a3dd9aed0ec8552b76dda, Count: 1, Title: A Mobile Edge Computing (MEC)-Enabled Transcoding Framework for Blockchain-Based Video Streaming
+Paper ID: 4e5d7655df38606acc805aa8d14803369a58bc2e, Count: 1, Title: WidePLive: a coupled low-delay overlay construction mechanism and peer-chunk priority-based chunk scheduling for P2P live video streaming
+Paper ID: 64839be73cef45496832443db00c4e0dfe76fe71, Count: 1, Title: Using Blockchain for Improved Video Integrity Verification
+Paper ID: 58133fd701609b9efbab3eff07827a40b84745c4, Count: 1, Title: Adaptive Wireless Video Streaming Based on Edge Computing: Opportunities and Approaches
+Paper ID: 2bf5667b9a62192e27deb89ce3d2d40b4f14e802, Count: 1, Title: An overlay management strategy to improve QoS in CDN-P2P live streaming systems
+Paper ID: 2e268ea4c39a557327aa94da2c44748748e489f6, Count: 1, Title: SybSub: Privacy-Preserving Expressive Task Subscription With Sybil Detection in Crowdsourcing
+Paper ID: 091c6a805f1f8ab3a3f5de6520897427aa238bd3, Count: 1, Title: Outsourcing Service Fair Payment Based on Blockchain and Its Applications in Cloud Computing
+Paper ID: 1cf3f8cd7450331deb36bc025467bc20a1316bd3, Count: 1, Title: Micropayments for Decentralized Currencies
+Paper ID: 40ede9054b10ded75742f64ce738c2e5595b03bc, Count: 1, Title: IPFS - Content Addressed, Versioned, P2P File System
+Paper ID: 3c275a0382af3022b5c6f09834b5552f4f5ff59b, Count: 1, Title: Inside the New Coolstreaming: Principles, Measurements and Performance Implications
+Paper ID: 5b4cf1e37954ccd1ca6b315986d45904f9d2f636, Count: 1, Title: Formalizing and Securing Relationships on Public Networks
+Paper ID: fbb8e6ba188ad7c7c59ce74d97222a46e13ee7b2, Count: 1, Title: Electronic Lottery Tickets as Micropayments
+Paper ID: 6583c552f30c5a61abd7b10b88a226d377613f7b, Count: 1, Title: Transactions Using Bets
+Paper ID: 48e1d1d5251f4b3487532adc08ca76986482948f, Count: 1, Title: Proof-of-Stream: A Robust Incentivization Protocol for Blockchain-based Hybrid Video on Demand Systems
+Paper ID: ca40bb51caea640fd8ed42c4e8bb435677229f75, Count: 1, Title: Controlling P2P-CDN Live Streaming Services at SDN-Enabled Multi-Access Edge Datacenters
+Paper ID: fd0cb5d0f2af3aeda46a691a1782e48e86ff0fc3, Count: 1, Title: CVT: A Crowdsourcing Video Transcoding Scheme Based on Blockchain Smart Contracts
+Paper ID: 1398f5aaaa5abfeef9dc1dd67d323b8004b0e951, Count: 1, Title: Security and privacy in mobile crowdsourcing networks: challenges and opportunities
